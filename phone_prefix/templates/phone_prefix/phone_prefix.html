@@ -1,0 +1,15 @@
+{% extends "home/base.html" %}
+{% block content %}
+    <table>
+
+{% for country in countries %}
+    <tr>
+        <th>{{ country.emoji }}</th>
+        <th>{{ country.name }}</th>
+        <th>{{ country.code }}</th>
+        <th>{{ country.dial_code }}</th>
+    </tr>
+{% endfor %}
+{% endblock content %}
+
+</table>
