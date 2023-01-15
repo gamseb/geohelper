@@ -15,7 +15,6 @@ function filterByColor(color) {
         element.classList.add('hidden-flag');
       }
     }
-    console.log(selectedFlags)
 }
 
 function resetFilters(){
@@ -33,7 +32,6 @@ function resetFilters(){
       const element = elements[i];
         element.classList.remove('hidden-flag');
     }
-    console.log(selectedFlags)
 }
 
 function togglePropertyInList(property) {
