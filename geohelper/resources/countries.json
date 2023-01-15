@@ -18,7 +18,7 @@
         "image_url": "https://flagcdn.com/h120/ax.png",
         "flag_colors": [
             "Blue",
-            "Gold",
+            "Yellow",
             "Red"
         ]
     },
@@ -212,7 +212,7 @@
         "flag_colors": [
             "Blue",
             "Black",
-            "Gold"
+            "Yellow"
         ]
     },
     "Belarus": {
@@ -275,7 +275,7 @@
         "image_url": "https://flagcdn.com/h120/bt.png",
         "flag_colors": [
             "Red",
-            "Gold",
+            "Yellow",
             "White"
         ]
     },
@@ -320,7 +320,7 @@
         "flag_colors": [
             "Green",
             "Blue",
-            "Gold"
+            "Yellow"
         ]
     },
     "British Indian Ocean Territory": {
@@ -414,7 +414,7 @@
         "image_url": "https://flagcdn.com/h120/cv.png",
         "flag_colors": [
             "Blue",
-            "Gold",
+            "Yellow",
             "Red",
             "White"
         ]
@@ -470,7 +470,7 @@
         "image_url": "https://flagcdn.com/h120/cn.png",
         "flag_colors": [
             "Red",
-            "Gold"
+            "Yellow"
         ]
     },
     "Christmas Island": {
@@ -524,7 +524,7 @@
         "image_url": "https://flagcdn.com/h120/cg.png",
         "flag_colors": [
             "Red",
-            "Gold",
+            "Yellow",
             "Green"
         ]
     },
@@ -690,7 +690,7 @@
         "image_url": "https://flagcdn.com/h120/eg.png",
         "flag_colors": [
             "Black",
-            "Gold",
+            "Yellow",
             "Red",
             "White"
         ]
@@ -702,7 +702,7 @@
         "image_url": "https://flagcdn.com/h120/sv.png",
         "flag_colors": [
             "Blue",
-            "Gold",
+            "Yellow",
             "White"
         ]
     },
@@ -787,7 +787,7 @@
         "image_url": "https://flagcdn.com/h120/fj.png",
         "flag_colors": [
             "Blue",
-            "Gold",
+            "Yellow",
             "Red",
             "White"
         ]
@@ -831,7 +831,7 @@
         "flag_colors": [
             "Red",
             "Blue",
-            "Gold",
+            "Yellow",
             "White"
         ]
     },
@@ -875,7 +875,7 @@
         "image_url": "https://flagcdn.com/h120/de.png",
         "flag_colors": [
             "Black",
-            "Gold",
+            "Yellow",
             "Red"
         ]
     },
@@ -1168,7 +1168,7 @@
         "flag_colors": [
             "Green",
             "Black",
-            "Gold"
+            "Yellow"
         ]
     },
     "Japan": {
@@ -1233,7 +1233,7 @@
         "flag_colors": [
             "Red",
             "Blue",
-            "Gold",
+            "Yellow",
             "White"
         ]
     },
@@ -1545,9 +1545,8 @@
         "image_url": "https://flagcdn.com/h120/md.png",
         "flag_colors": [
             "Blue",
-            "Gold",
-            "Red",
-            "Yellow"
+            "Yellow",
+            "Red"
         ]
     },
     "Monaco": {
@@ -1578,7 +1577,7 @@
         "image_url": "https://flagcdn.com/h120/me.png",
         "flag_colors": [
             "Red",
-            "Gold"
+            "Yellow"
         ]
     },
     "Montserrat": {
@@ -1741,7 +1740,7 @@
         "emoji": "🇳🇺",
         "image_url": "https://flagcdn.com/h120/nu.png",
         "flag_colors": [
-            "Gold"
+            "Yellow"
         ]
     },
     "Norfolk Island": {
@@ -2198,7 +2197,7 @@
             "Red",
             "Black",
             "Blue",
-            "Gold",
+            "Yellow",
             "Green",
             "White"
         ]
@@ -2235,7 +2234,7 @@
         "image_url": "https://flagcdn.com/h120/es.png",
         "flag_colors": [
             "Red",
-            "Gold"
+            "Yellow"
         ]
     },
     "Sri Lanka": {
@@ -2245,7 +2244,7 @@
         "image_url": "https://flagcdn.com/h120/lk.png",
         "flag_colors": [
             "Red",
-            "Gold",
+            "Yellow",
             "Green",
             "Orange"
         ]
@@ -2270,7 +2269,7 @@
         "emoji": "🇸🇷",
         "image_url": "https://flagcdn.com/h120/sr.png",
         "flag_colors": [
-            "Gold",
+            "Yellow",
             "Green",
             "Red",
             "White"
@@ -2294,7 +2293,7 @@
         "image_url": "https://flagcdn.com/h120/se.png",
         "flag_colors": [
             "Blue",
-            "Gold"
+            "Yellow"
         ]
     },
     "Switzerland": {
@@ -2336,7 +2335,7 @@
         "emoji": "🇹🇯",
         "image_url": "https://flagcdn.com/h120/tj.png",
         "flag_colors": [
-            "Gold",
+            "Yellow",
             "Green",
             "Red",
             "White"
@@ -2467,7 +2466,7 @@
         "image_url": "https://flagcdn.com/h120/tv.png",
         "flag_colors": [
             "Blue",
-            "Gold",
+            "Yellow",
             "Red",
             "White"
         ]
@@ -2491,7 +2490,7 @@
         "image_url": "https://flagcdn.com/h120/ua.png",
         "flag_colors": [
             "Blue",
-            "Gold"
+            "Yellow"
         ]
     },
     "United Arab Emirates": {
@@ -2599,7 +2598,7 @@
         "image_url": "https://flagcdn.com/h120/vi.png",
         "flag_colors": [
             "White",
-            "Gold"
+            "Yellow"
         ]
     },
     "Wallis And Futuna": {
