@@ -3,7 +3,7 @@
         "dial_code": "+93",
         "country_code": "AF",
         "emoji": "🇦🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/af.png",
+        "image_url": "https://flagcdn.com/h120/af.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -15,7 +15,7 @@
         "dial_code": "+358",
         "country_code": "AX",
         "emoji": "🇦🇽",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ax.png",
+        "image_url": "https://flagcdn.com/h120/ax.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -26,7 +26,7 @@
         "dial_code": "+355",
         "country_code": "AL",
         "emoji": "🇦🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/al.png",
+        "image_url": "https://flagcdn.com/h120/al.png",
         "flag_colors": [
             "Red",
             "Black"
@@ -36,7 +36,7 @@
         "dial_code": "+213",
         "country_code": "DZ",
         "emoji": "🇩🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/dz.png",
+        "image_url": "https://flagcdn.com/h120/dz.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -47,7 +47,7 @@
         "dial_code": "+1684",
         "country_code": "AS",
         "emoji": "🇦🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/as.png",
+        "image_url": "https://flagcdn.com/h120/as.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -58,7 +58,7 @@
         "dial_code": "+376",
         "country_code": "AD",
         "emoji": "🇦🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ad.png",
+        "image_url": "https://flagcdn.com/h120/ad.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -69,7 +69,7 @@
         "dial_code": "+244",
         "country_code": "AO",
         "emoji": "🇦🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ao.png",
+        "image_url": "https://flagcdn.com/h120/ao.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -80,7 +80,7 @@
         "dial_code": "+1264",
         "country_code": "AI",
         "emoji": "🇦🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ai.png",
+        "image_url": "https://flagcdn.com/h120/ai.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -90,7 +90,7 @@
         "dial_code": "+672",
         "country_code": "AQ",
         "emoji": "🇦🇶",
-        "image_url": "https://countryflagsapi.com/png/aq",
+        "image_url": "https://flagcdn.com/h120/aq.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -100,7 +100,7 @@
         "dial_code": "+1268",
         "country_code": "AG",
         "emoji": "🇦🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ag.png",
+        "image_url": "https://flagcdn.com/h120/ag.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -113,7 +113,7 @@
         "dial_code": "+54",
         "country_code": "AR",
         "emoji": "🇦🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ar.png",
+        "image_url": "https://flagcdn.com/h120/ar.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -123,7 +123,7 @@
         "dial_code": "+374",
         "country_code": "AM",
         "emoji": "🇦🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/am.png",
+        "image_url": "https://flagcdn.com/h120/am.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -134,7 +134,7 @@
         "dial_code": "+297",
         "country_code": "AW",
         "emoji": "🇦🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/aw.png",
+        "image_url": "https://flagcdn.com/h120/aw.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -145,7 +145,7 @@
         "dial_code": "+61",
         "country_code": "AU",
         "emoji": "🇦🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/au.png",
+        "image_url": "https://flagcdn.com/h120/au.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -156,7 +156,7 @@
         "dial_code": "+43",
         "country_code": "AT",
         "emoji": "🇦🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/at.png",
+        "image_url": "https://flagcdn.com/h120/at.png",
         "flag_colors": [
             "Red",
             "White"
@@ -166,7 +166,7 @@
         "dial_code": "+994",
         "country_code": "AZ",
         "emoji": "🇦🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/az.png",
+        "image_url": "https://flagcdn.com/h120/az.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -177,7 +177,7 @@
         "dial_code": "+1242",
         "country_code": "BS",
         "emoji": "🇧🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bs.png",
+        "image_url": "https://flagcdn.com/h120/bs.png",
         "flag_colors": [
             "Black",
             "Blue",
@@ -188,7 +188,7 @@
         "dial_code": "+973",
         "country_code": "BH",
         "emoji": "🇧🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bh.png",
+        "image_url": "https://flagcdn.com/h120/bh.png",
         "flag_colors": [
             "Red",
             "White"
@@ -198,7 +198,7 @@
         "dial_code": "+880",
         "country_code": "BD",
         "emoji": "🇧🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bd.png",
+        "image_url": "https://flagcdn.com/h120/bd.png",
         "flag_colors": [
             "Red",
             "Green"
@@ -208,7 +208,7 @@
         "dial_code": "+1246",
         "country_code": "BB",
         "emoji": "🇧🇧",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bb.png",
+        "image_url": "https://flagcdn.com/h120/bb.png",
         "flag_colors": [
             "Blue",
             "Black",
@@ -219,7 +219,7 @@
         "dial_code": "+375",
         "country_code": "BY",
         "emoji": "🇧🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/by.png",
+        "image_url": "https://flagcdn.com/h120/by.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -230,7 +230,7 @@
         "dial_code": "+32",
         "country_code": "BE",
         "emoji": "🇧🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/be.png",
+        "image_url": "https://flagcdn.com/h120/be.png",
         "flag_colors": [
             "Black",
             "Red",
@@ -241,7 +241,7 @@
         "dial_code": "+501",
         "country_code": "BZ",
         "emoji": "🇧🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bz.png",
+        "image_url": "https://flagcdn.com/h120/bz.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -252,7 +252,7 @@
         "dial_code": "+229",
         "country_code": "BJ",
         "emoji": "🇧🇯",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bj.png",
+        "image_url": "https://flagcdn.com/h120/bj.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -263,7 +263,7 @@
         "dial_code": "+1441",
         "country_code": "BM",
         "emoji": "🇧🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bm.png",
+        "image_url": "https://flagcdn.com/h120/bm.png",
         "flag_colors": [
             "Red"
         ]
@@ -272,7 +272,7 @@
         "dial_code": "+975",
         "country_code": "BT",
         "emoji": "🇧🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bt.png",
+        "image_url": "https://flagcdn.com/h120/bt.png",
         "flag_colors": [
             "Red",
             "Gold",
@@ -283,7 +283,7 @@
         "dial_code": "+591",
         "country_code": "BO",
         "emoji": "🇧🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bo.png",
+        "image_url": "https://flagcdn.com/h120/bo.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -294,7 +294,7 @@
         "dial_code": "+387",
         "country_code": "BA",
         "emoji": "🇧🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ba.png",
+        "image_url": "https://flagcdn.com/h120/ba.png",
         "flag_colors": [
             "Blue",
             "White",
@@ -305,7 +305,7 @@
         "dial_code": "+267",
         "country_code": "BW",
         "emoji": "🇧🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bw.png",
+        "image_url": "https://flagcdn.com/h120/bw.png",
         "flag_colors": [
             "Blue",
             "Black",
@@ -316,7 +316,7 @@
         "dial_code": "+55",
         "country_code": "BR",
         "emoji": "🇧🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/br.png",
+        "image_url": "https://flagcdn.com/h120/br.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -327,14 +327,14 @@
         "dial_code": "+246",
         "country_code": "IO",
         "emoji": "🇮🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/io.png",
+        "image_url": "https://flagcdn.com/h120/io.png",
         "flag_colors": []
     },
     "Brunei Darussalam": {
         "dial_code": "+673",
         "country_code": "BN",
         "emoji": "🇧🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bn.png",
+        "image_url": "https://flagcdn.com/h120/bn.png",
         "flag_colors": [
             "Yellow",
             "Black",
@@ -346,7 +346,7 @@
         "dial_code": "+359",
         "country_code": "BG",
         "emoji": "🇧🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bg.png",
+        "image_url": "https://flagcdn.com/h120/bg.png",
         "flag_colors": [
             "White",
             "Green",
@@ -357,7 +357,7 @@
         "dial_code": "+226",
         "country_code": "BF",
         "emoji": "🇧🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bf.png",
+        "image_url": "https://flagcdn.com/h120/bf.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -368,7 +368,7 @@
         "dial_code": "+257",
         "country_code": "BI",
         "emoji": "🇧🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bi.png",
+        "image_url": "https://flagcdn.com/h120/bi.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -379,7 +379,7 @@
         "dial_code": "+855",
         "country_code": "KH",
         "emoji": "🇰🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kh.png",
+        "image_url": "https://flagcdn.com/h120/kh.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -390,7 +390,7 @@
         "dial_code": "+237",
         "country_code": "CM",
         "emoji": "🇨🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cm.png",
+        "image_url": "https://flagcdn.com/h120/cm.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -401,7 +401,7 @@
         "dial_code": "+1",
         "country_code": "CA",
         "emoji": "🇨🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ca.png",
+        "image_url": "https://flagcdn.com/h120/ca.png",
         "flag_colors": [
             "Red",
             "White"
@@ -411,7 +411,7 @@
         "dial_code": "+238",
         "country_code": "CV",
         "emoji": "🇨🇻",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cv.png",
+        "image_url": "https://flagcdn.com/h120/cv.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -423,7 +423,7 @@
         "dial_code": "+ 345",
         "country_code": "KY",
         "emoji": "🇰🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ky.png",
+        "image_url": "https://flagcdn.com/h120/ky.png",
         "flag_colors": [
             "Blue"
         ]
@@ -432,7 +432,7 @@
         "dial_code": "+236",
         "country_code": "CF",
         "emoji": "🇨🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cf.png",
+        "image_url": "https://flagcdn.com/h120/cf.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -445,7 +445,7 @@
         "dial_code": "+235",
         "country_code": "TD",
         "emoji": "🇹🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/td.png",
+        "image_url": "https://flagcdn.com/h120/td.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -456,7 +456,7 @@
         "dial_code": "+56",
         "country_code": "CL",
         "emoji": "🇨🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cl.png",
+        "image_url": "https://flagcdn.com/h120/cl.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -467,7 +467,7 @@
         "dial_code": "+86",
         "country_code": "CN",
         "emoji": "🇨🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cn.png",
+        "image_url": "https://flagcdn.com/h120/cn.png",
         "flag_colors": [
             "Red",
             "Gold"
@@ -477,7 +477,7 @@
         "dial_code": "+61",
         "country_code": "CX",
         "emoji": "🇨🇽",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cx.png",
+        "image_url": "https://flagcdn.com/h120/cx.png",
         "flag_colors": [
             "Blue",
             "Green"
@@ -487,7 +487,7 @@
         "dial_code": "+61",
         "country_code": "CC",
         "emoji": "🇨🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cc.png",
+        "image_url": "https://flagcdn.com/h120/cc.png",
         "flag_colors": [
             "Green",
             "Yellow"
@@ -497,7 +497,7 @@
         "dial_code": "+57",
         "country_code": "CO",
         "emoji": "🇨🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/co.png",
+        "image_url": "https://flagcdn.com/h120/co.png",
         "flag_colors": [
             "Yellow",
             "Blue",
@@ -508,7 +508,7 @@
         "dial_code": "+269",
         "country_code": "KM",
         "emoji": "🇰🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/km.png",
+        "image_url": "https://flagcdn.com/h120/km.png",
         "flag_colors": [
             "Yellow",
             "Blue",
@@ -521,7 +521,7 @@
         "dial_code": "+242",
         "country_code": "CG",
         "emoji": "🇨🇬",
-        "image_url": "https://countryflagsapi.com/png/cg",
+        "image_url": "https://flagcdn.com/h120/cg",
         "flag_colors": [
             "Red",
             "Gold",
@@ -532,7 +532,7 @@
         "dial_code": "+243",
         "country_code": "CD",
         "emoji": "🇨🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cd.png",
+        "image_url": "https://flagcdn.com/h120/cd.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -543,7 +543,7 @@
         "dial_code": "+682",
         "country_code": "CK",
         "emoji": "🇨🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ck.png",
+        "image_url": "https://flagcdn.com/h120/ck.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -554,7 +554,7 @@
         "dial_code": "+506",
         "country_code": "CR",
         "emoji": "🇨🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cr.png",
+        "image_url": "https://flagcdn.com/h120/cr.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -565,7 +565,7 @@
         "dial_code": "+225",
         "country_code": "CI",
         "emoji": "🇨🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ci.png",
+        "image_url": "https://flagcdn.com/h120/ci.png",
         "flag_colors": [
             "Orange",
             "Green",
@@ -576,7 +576,7 @@
         "dial_code": "+385",
         "country_code": "HR",
         "emoji": "🇭🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/hr.png",
+        "image_url": "https://flagcdn.com/h120/hr.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -587,7 +587,7 @@
         "dial_code": "+53",
         "country_code": "CU",
         "emoji": "🇨🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cu.png",
+        "image_url": "https://flagcdn.com/h120/cu.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -598,7 +598,7 @@
         "dial_code": "+599",
         "country_code": "CW",
         "emoji": "🇨🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cw.png",
+        "image_url": "https://flagcdn.com/h120/cw.png",
         "flag_colors": [
             "Blue",
             "White",
@@ -609,7 +609,7 @@
         "dial_code": "+357",
         "country_code": "CY",
         "emoji": "🇨🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cy.png",
+        "image_url": "https://flagcdn.com/h120/cy.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -619,7 +619,7 @@
         "dial_code": "+420",
         "country_code": "CZ",
         "emoji": "🇨🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/cz.png",
+        "image_url": "https://flagcdn.com/h120/cz.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -630,7 +630,7 @@
         "dial_code": "+45",
         "country_code": "DK",
         "emoji": "🇩🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/dk.png",
+        "image_url": "https://flagcdn.com/h120/dk.png",
         "flag_colors": [
             "Red",
             "White"
@@ -640,7 +640,7 @@
         "dial_code": "+253",
         "country_code": "DJ",
         "emoji": "🇩🇯",
-        "image_url": "https://www.flagpictures.com/static/images/flags/dj.png",
+        "image_url": "https://flagcdn.com/h120/dj.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -652,7 +652,7 @@
         "dial_code": "+1767",
         "country_code": "DM",
         "emoji": "🇩🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/dm.png",
+        "image_url": "https://flagcdn.com/h120/dm.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -665,7 +665,7 @@
         "dial_code": "+1849",
         "country_code": "DO",
         "emoji": "🇩🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/do.png",
+        "image_url": "https://flagcdn.com/h120/do.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -676,7 +676,7 @@
         "dial_code": "+593",
         "country_code": "EC",
         "emoji": "🇪🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ec.png",
+        "image_url": "https://flagcdn.com/h120/ec.png",
         "flag_colors": [
             "Yellow",
             "Blue",
@@ -687,7 +687,7 @@
         "dial_code": "+20",
         "country_code": "EG",
         "emoji": "🇪🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/eg.png",
+        "image_url": "https://flagcdn.com/h120/eg.png",
         "flag_colors": [
             "Black",
             "Gold",
@@ -699,7 +699,7 @@
         "dial_code": "+503",
         "country_code": "SV",
         "emoji": "🇸🇻",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sv.png",
+        "image_url": "https://flagcdn.com/h120/sv.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -710,7 +710,7 @@
         "dial_code": "+240",
         "country_code": "GQ",
         "emoji": "🇬🇶",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gq.png",
+        "image_url": "https://flagcdn.com/h120/gq.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -722,7 +722,7 @@
         "dial_code": "+291",
         "country_code": "ER",
         "emoji": "🇪🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/er.png",
+        "image_url": "https://flagcdn.com/h120/er.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -734,7 +734,7 @@
         "dial_code": "+372",
         "country_code": "EE",
         "emoji": "🇪🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ee.png",
+        "image_url": "https://flagcdn.com/h120/ee.png",
         "flag_colors": [
             "Blue",
             "Black",
@@ -745,7 +745,7 @@
         "dial_code": "+268",
         "country_code": "SZ",
         "emoji": "🇸🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sz.png",
+        "image_url": "https://flagcdn.com/h120/sz.png",
         "flag_colors": [
             "Black",
             "Blue",
@@ -758,7 +758,7 @@
         "dial_code": "+251",
         "country_code": "ET",
         "emoji": "🇪🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/et.png",
+        "image_url": "https://flagcdn.com/h120/et.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -770,21 +770,21 @@
         "dial_code": "+500",
         "country_code": "FK",
         "emoji": "🇫🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fk.png",
+        "image_url": "https://flagcdn.com/h120/fk.png",
         "flag_colors": []
     },
     "Faroe Islands": {
         "dial_code": "+298",
         "country_code": "FO",
         "emoji": "🇫🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fo.png",
+        "image_url": "https://flagcdn.com/h120/fo.png",
         "flag_colors": []
     },
     "Fiji": {
         "dial_code": "+679",
         "country_code": "FJ",
         "emoji": "🇫🇯",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fj.png",
+        "image_url": "https://flagcdn.com/h120/fj.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -796,7 +796,7 @@
         "dial_code": "+358",
         "country_code": "FI",
         "emoji": "🇫🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fi.png",
+        "image_url": "https://flagcdn.com/h120/fi.png",
         "flag_colors": [
             "White",
             "Blue"
@@ -806,7 +806,7 @@
         "dial_code": "+33",
         "country_code": "FR",
         "emoji": "🇫🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fr.png",
+        "image_url": "https://flagcdn.com/h120/fr.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -817,7 +817,7 @@
         "dial_code": "+594",
         "country_code": "GF",
         "emoji": "🇬🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gf.png",
+        "image_url": "https://flagcdn.com/h120/gf.png",
         "flag_colors": [
             "Green",
             "Yellow"
@@ -827,7 +827,7 @@
         "dial_code": "+689",
         "country_code": "PF",
         "emoji": "🇵🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pf.png",
+        "image_url": "https://flagcdn.com/h120/pf.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -839,7 +839,7 @@
         "dial_code": "+241",
         "country_code": "GA",
         "emoji": "🇬🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ga.png",
+        "image_url": "https://flagcdn.com/h120/ga.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -850,7 +850,7 @@
         "dial_code": "+220",
         "country_code": "GM",
         "emoji": "🇬🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gm.png",
+        "image_url": "https://flagcdn.com/h120/gm.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -862,7 +862,7 @@
         "dial_code": "+995",
         "country_code": "GE",
         "emoji": "🇬🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ge.png",
+        "image_url": "https://flagcdn.com/h120/ge.png",
         "flag_colors": [
             "Red",
             "White"
@@ -872,7 +872,7 @@
         "dial_code": "+49",
         "country_code": "DE",
         "emoji": "🇩🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/de.png",
+        "image_url": "https://flagcdn.com/h120/de.png",
         "flag_colors": [
             "Black",
             "Gold",
@@ -883,7 +883,7 @@
         "dial_code": "+233",
         "country_code": "GH",
         "emoji": "🇬🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gh.png",
+        "image_url": "https://flagcdn.com/h120/gh.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -895,7 +895,7 @@
         "dial_code": "+350",
         "country_code": "GI",
         "emoji": "🇬🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gi.png",
+        "image_url": "https://flagcdn.com/h120/gi.png",
         "flag_colors": [
             "White",
             "Red"
@@ -905,7 +905,7 @@
         "dial_code": "+30",
         "country_code": "GR",
         "emoji": "🇬🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gr.png",
+        "image_url": "https://flagcdn.com/h120/gr.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -915,7 +915,7 @@
         "dial_code": "+299",
         "country_code": "GL",
         "emoji": "🇬🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gl.png",
+        "image_url": "https://flagcdn.com/h120/gl.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -925,7 +925,7 @@
         "dial_code": "+1473",
         "country_code": "GD",
         "emoji": "🇬🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gd.png",
+        "image_url": "https://flagcdn.com/h120/gd.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -936,7 +936,7 @@
         "dial_code": "+590",
         "country_code": "GP",
         "emoji": "🇬🇵",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gp.png",
+        "image_url": "https://flagcdn.com/h120/gp.png",
         "flag_colors": [
             "Black",
             "Yellow",
@@ -947,7 +947,7 @@
         "dial_code": "+1671",
         "country_code": "GU",
         "emoji": "🇬🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gu.png",
+        "image_url": "https://flagcdn.com/h120/gu.png",
         "flag_colors": [
             "Blue",
             "Red"
@@ -957,7 +957,7 @@
         "dial_code": "+502",
         "country_code": "GT",
         "emoji": "🇬🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gt.png",
+        "image_url": "https://flagcdn.com/h120/gt.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -967,7 +967,7 @@
         "dial_code": "+44",
         "country_code": "GG",
         "emoji": "🇬🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gg.png",
+        "image_url": "https://flagcdn.com/h120/gg.png",
         "flag_colors": [
             "White",
             "Red",
@@ -978,7 +978,7 @@
         "dial_code": "+224",
         "country_code": "GN",
         "emoji": "🇬🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gq.png",
+        "image_url": "https://flagcdn.com/h120/gq.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -990,7 +990,7 @@
         "dial_code": "+245",
         "country_code": "GW",
         "emoji": "🇬🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gw.png",
+        "image_url": "https://flagcdn.com/h120/gw.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -1002,7 +1002,7 @@
         "dial_code": "+595",
         "country_code": "GY",
         "emoji": "🇬🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gy.png",
+        "image_url": "https://flagcdn.com/h120/gy.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1015,7 +1015,7 @@
         "dial_code": "+509",
         "country_code": "HT",
         "emoji": "🇭🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ht.png",
+        "image_url": "https://flagcdn.com/h120/ht.png",
         "flag_colors": [
             "Blue",
             "Red"
@@ -1025,7 +1025,7 @@
         "dial_code": "+379",
         "country_code": "VA",
         "emoji": "🇻🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/va.png",
+        "image_url": "https://flagcdn.com/h120/va.png",
         "flag_colors": [
             "Yellow",
             "White"
@@ -1035,7 +1035,7 @@
         "dial_code": "+504",
         "country_code": "HN",
         "emoji": "🇭🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/hn.png",
+        "image_url": "https://flagcdn.com/h120/hn.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1045,7 +1045,7 @@
         "dial_code": "+852",
         "country_code": "HK",
         "emoji": "🇭🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/hk.png",
+        "image_url": "https://flagcdn.com/h120/hk.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1055,7 +1055,7 @@
         "dial_code": "+36",
         "country_code": "HU",
         "emoji": "🇭🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/hu.png",
+        "image_url": "https://flagcdn.com/h120/hu.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -1066,7 +1066,7 @@
         "dial_code": "+354",
         "country_code": "IS",
         "emoji": "🇮🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/is.png",
+        "image_url": "https://flagcdn.com/h120/is.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1077,7 +1077,7 @@
         "dial_code": "+91",
         "country_code": "IN",
         "emoji": "🇮🇳",
-        "image_url": "https://countryflagsapi.com/png/in",
+        "image_url": "https://flagcdn.com/h120/in.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -1089,7 +1089,7 @@
         "dial_code": "+62",
         "country_code": "ID",
         "emoji": "🇮🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/id.png",
+        "image_url": "https://flagcdn.com/h120/id.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1099,7 +1099,7 @@
         "dial_code": "+98",
         "country_code": "IR",
         "emoji": "🇮🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ir.png",
+        "image_url": "https://flagcdn.com/h120/ir.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -1110,7 +1110,7 @@
         "dial_code": "+964",
         "country_code": "IQ",
         "emoji": "🇮🇶",
-        "image_url": "https://www.flagpictures.com/static/images/flags/iq.png",
+        "image_url": "https://flagcdn.com/h120/iq.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -1122,7 +1122,7 @@
         "dial_code": "+353",
         "country_code": "IE",
         "emoji": "🇮🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ie.png",
+        "image_url": "https://flagcdn.com/h120/ie.png",
         "flag_colors": [
             "Green",
             "White",
@@ -1133,7 +1133,7 @@
         "dial_code": "+44",
         "country_code": "IM",
         "emoji": "🇮🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/im.png",
+        "image_url": "https://flagcdn.com/h120/im.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1143,7 +1143,7 @@
         "dial_code": "+972",
         "country_code": "IL",
         "emoji": "🇮🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/il.png",
+        "image_url": "https://flagcdn.com/h120/il.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1153,7 +1153,7 @@
         "dial_code": "+39",
         "country_code": "IT",
         "emoji": "🇮🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/it.png",
+        "image_url": "https://flagcdn.com/h120/it.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -1164,7 +1164,7 @@
         "dial_code": "+1876",
         "country_code": "JM",
         "emoji": "🇯🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/jm.png",
+        "image_url": "https://flagcdn.com/h120/jm.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -1175,7 +1175,7 @@
         "dial_code": "+81",
         "country_code": "JP",
         "emoji": "🇯🇵",
-        "image_url": "https://www.flagpictures.com/static/images/flags/jp.png",
+        "image_url": "https://flagcdn.com/h120/jp.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1185,7 +1185,7 @@
         "dial_code": "+44",
         "country_code": "JE",
         "emoji": "🇯🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/je.png",
+        "image_url": "https://flagcdn.com/h120/je.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1195,7 +1195,7 @@
         "dial_code": "+962",
         "country_code": "JO",
         "emoji": "🇯🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/jo.png",
+        "image_url": "https://flagcdn.com/h120/jo.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1207,7 +1207,7 @@
         "dial_code": "+77",
         "country_code": "KZ",
         "emoji": "🇰🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kz.png",
+        "image_url": "https://flagcdn.com/h120/kz.png",
         "flag_colors": [
             "Blue",
             "Yellow"
@@ -1217,7 +1217,7 @@
         "dial_code": "+254",
         "country_code": "KE",
         "emoji": "🇰🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ke.png",
+        "image_url": "https://flagcdn.com/h120/ke.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1229,7 +1229,7 @@
         "dial_code": "+686",
         "country_code": "KI",
         "emoji": "🇰🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ki.png",
+        "image_url": "https://flagcdn.com/h120/ki.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1241,7 +1241,7 @@
         "dial_code": "+850",
         "country_code": "KP",
         "emoji": "🇰🇵",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kp.png",
+        "image_url": "https://flagcdn.com/h120/kp.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1252,7 +1252,7 @@
         "dial_code": "+82",
         "country_code": "KR",
         "emoji": "🇰🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kr.png",
+        "image_url": "https://flagcdn.com/h120/kr.png",
         "flag_colors": [
             "White",
             "Black",
@@ -1264,7 +1264,7 @@
         "dial_code": "+965",
         "country_code": "KW",
         "emoji": "🇰🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kw.png",
+        "image_url": "https://flagcdn.com/h120/kw.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -1276,7 +1276,7 @@
         "dial_code": "+996",
         "country_code": "KG",
         "emoji": "🇰🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kg.png",
+        "image_url": "https://flagcdn.com/h120/kg.png",
         "flag_colors": [
             "Red",
             "Yellow"
@@ -1286,7 +1286,7 @@
         "dial_code": "+856",
         "country_code": "LA",
         "emoji": "🇱🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/la.png",
+        "image_url": "https://flagcdn.com/h120/la.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1297,7 +1297,7 @@
         "dial_code": "+371",
         "country_code": "LV",
         "emoji": "🇱🇻",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lv.png",
+        "image_url": "https://flagcdn.com/h120/lv.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1307,7 +1307,7 @@
         "dial_code": "+961",
         "country_code": "LB",
         "emoji": "🇱🇧",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lb.png",
+        "image_url": "https://flagcdn.com/h120/lb.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -1318,7 +1318,7 @@
         "dial_code": "+266",
         "country_code": "LS",
         "emoji": "🇱🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ls.png",
+        "image_url": "https://flagcdn.com/h120/ls.png",
         "flag_colors": [
             "Blue",
             "Black",
@@ -1330,7 +1330,7 @@
         "dial_code": "+231",
         "country_code": "LR",
         "emoji": "🇱🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lr.png",
+        "image_url": "https://flagcdn.com/h120/lr.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1341,7 +1341,7 @@
         "dial_code": "+218",
         "country_code": "LY",
         "emoji": "🇱🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ly.png",
+        "image_url": "https://flagcdn.com/h120/ly.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -1353,7 +1353,7 @@
         "dial_code": "+423",
         "country_code": "LI",
         "emoji": "🇱🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/li.png",
+        "image_url": "https://flagcdn.com/h120/li.png",
         "flag_colors": [
             "Blue",
             "Red"
@@ -1363,7 +1363,7 @@
         "dial_code": "+370",
         "country_code": "LT",
         "emoji": "🇱🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lt.png",
+        "image_url": "https://flagcdn.com/h120/lt.png",
         "flag_colors": [
             "Yellow",
             "Green",
@@ -1374,7 +1374,7 @@
         "dial_code": "+352",
         "country_code": "LU",
         "emoji": "🇱🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lu.png",
+        "image_url": "https://flagcdn.com/h120/lu.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1385,7 +1385,7 @@
         "dial_code": "+853",
         "country_code": "MO",
         "emoji": "🇲🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mo.png",
+        "image_url": "https://flagcdn.com/h120/mo.png",
         "flag_colors": [
             "Green",
             "White"
@@ -1395,7 +1395,7 @@
         "dial_code": "+389",
         "country_code": "MK",
         "emoji": "🇲🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mk.png",
+        "image_url": "https://flagcdn.com/h120/mk.png",
         "flag_colors": [
             "Red",
             "Yellow"
@@ -1405,7 +1405,7 @@
         "dial_code": "+261",
         "country_code": "MG",
         "emoji": "🇲🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mg.png",
+        "image_url": "https://flagcdn.com/h120/mg.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -1416,7 +1416,7 @@
         "dial_code": "+265",
         "country_code": "MW",
         "emoji": "🇲🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mw.png",
+        "image_url": "https://flagcdn.com/h120/mw.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1427,7 +1427,7 @@
         "dial_code": "+60",
         "country_code": "MY",
         "emoji": "🇲🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/my.png",
+        "image_url": "https://flagcdn.com/h120/my.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1439,7 +1439,7 @@
         "dial_code": "+960",
         "country_code": "MV",
         "emoji": "🇲🇻",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mv.png",
+        "image_url": "https://flagcdn.com/h120/mv.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1449,7 +1449,7 @@
         "dial_code": "+223",
         "country_code": "ML",
         "emoji": "🇲🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ml.png",
+        "image_url": "https://flagcdn.com/h120/ml.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -1460,7 +1460,7 @@
         "dial_code": "+356",
         "country_code": "MT",
         "emoji": "🇲🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mt.png",
+        "image_url": "https://flagcdn.com/h120/mt.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1470,7 +1470,7 @@
         "dial_code": "+692",
         "country_code": "MH",
         "emoji": "🇲🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mh.png",
+        "image_url": "https://flagcdn.com/h120/mh.png",
         "flag_colors": [
             "Blue",
             "Orange",
@@ -1481,7 +1481,7 @@
         "dial_code": "+596",
         "country_code": "MQ",
         "emoji": "🇲🇶",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mq.png",
+        "image_url": "https://flagcdn.com/h120/mq.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1491,7 +1491,7 @@
         "dial_code": "+222",
         "country_code": "MR",
         "emoji": "🇲🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mr.png",
+        "image_url": "https://flagcdn.com/h120/mr.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -1502,7 +1502,7 @@
         "dial_code": "+230",
         "country_code": "MU",
         "emoji": "🇲🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mu.png",
+        "image_url": "https://flagcdn.com/h120/mu.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1514,14 +1514,14 @@
         "dial_code": "+262",
         "country_code": "YT",
         "emoji": "🇾🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/yt.png",
+        "image_url": "https://flagcdn.com/h120/yt.png",
         "flag_colors": []
     },
     "Mexico": {
         "dial_code": "+52",
         "country_code": "MX",
         "emoji": "🇲🇽",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mx.png",
+        "image_url": "https://flagcdn.com/h120/mx.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -1532,7 +1532,7 @@
         "dial_code": "+691",
         "country_code": "FM",
         "emoji": "🇫🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/fm.png",
+        "image_url": "https://flagcdn.com/h120/fm.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1542,7 +1542,7 @@
         "dial_code": "+373",
         "country_code": "MD",
         "emoji": "🇲🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/md.png",
+        "image_url": "https://flagcdn.com/h120/md.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -1554,7 +1554,7 @@
         "dial_code": "+377",
         "country_code": "MC",
         "emoji": "🇲🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mc.png",
+        "image_url": "https://flagcdn.com/h120/mc.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1564,7 +1564,7 @@
         "dial_code": "+976",
         "country_code": "MN",
         "emoji": "🇲🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mn.png",
+        "image_url": "https://flagcdn.com/h120/mn.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1575,7 +1575,7 @@
         "dial_code": "+382",
         "country_code": "ME",
         "emoji": "🇲🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/me.png",
+        "image_url": "https://flagcdn.com/h120/me.png",
         "flag_colors": [
             "Red",
             "Gold"
@@ -1585,7 +1585,7 @@
         "dial_code": "+1664",
         "country_code": "MS",
         "emoji": "🇲🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ms.png",
+        "image_url": "https://flagcdn.com/h120/ms.png",
         "flag_colors": [
             "Blue"
         ]
@@ -1594,7 +1594,7 @@
         "dial_code": "+212",
         "country_code": "MA",
         "emoji": "🇲🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ma.png",
+        "image_url": "https://flagcdn.com/h120/ma.png",
         "flag_colors": [
             "Red",
             "Green"
@@ -1604,7 +1604,7 @@
         "dial_code": "+258",
         "country_code": "MZ",
         "emoji": "🇲🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mz.png",
+        "image_url": "https://flagcdn.com/h120/mz.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1617,7 +1617,7 @@
         "dial_code": "+95",
         "country_code": "MM",
         "emoji": "🇲🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mm.png",
+        "image_url": "https://flagcdn.com/h120/mm.png",
         "flag_colors": [
             "Yellow",
             "Green",
@@ -1629,7 +1629,7 @@
         "dial_code": "+264",
         "country_code": "NA",
         "emoji": "🇳🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/na.png",
+        "image_url": "https://flagcdn.com/h120/na.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -1642,7 +1642,7 @@
         "dial_code": "+674",
         "country_code": "NR",
         "emoji": "🇳🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nr.png",
+        "image_url": "https://flagcdn.com/h120/nr.png",
         "flag_colors": [
             "Blue",
             "White",
@@ -1653,7 +1653,7 @@
         "dial_code": "+977",
         "country_code": "NP",
         "emoji": "🇳🇵",
-        "image_url": "https://www.flagpictures.com/static/images/flags/np.png",
+        "image_url": "https://flagcdn.com/h120/np.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1664,7 +1664,7 @@
         "dial_code": "+31",
         "country_code": "NL",
         "emoji": "🇳🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nl.png",
+        "image_url": "https://flagcdn.com/h120/nl.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1675,7 +1675,7 @@
         "dial_code": "+599",
         "country_code": "AN",
         "emoji": "🇳🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nl.png",
+        "image_url": "https://flagcdn.com/h120/nl.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1686,7 +1686,7 @@
         "dial_code": "+687",
         "country_code": "NC",
         "emoji": "🇳🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nc.png",
+        "image_url": "https://flagcdn.com/h120/nc.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1697,7 +1697,7 @@
         "dial_code": "+64",
         "country_code": "NZ",
         "emoji": "🇳🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nz.png",
+        "image_url": "https://flagcdn.com/h120/nz.png",
         "flag_colors": [
             "White",
             "Blue",
@@ -1708,7 +1708,7 @@
         "dial_code": "+505",
         "country_code": "NI",
         "emoji": "🇳🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ni.png",
+        "image_url": "https://flagcdn.com/h120/ni.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1718,7 +1718,7 @@
         "dial_code": "+227",
         "country_code": "NE",
         "emoji": "🇳🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ne.png",
+        "image_url": "https://flagcdn.com/h120/ne.png",
         "flag_colors": [
             "Orange",
             "Green",
@@ -1729,7 +1729,7 @@
         "dial_code": "+234",
         "country_code": "NG",
         "emoji": "🇳🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ng.png",
+        "image_url": "https://flagcdn.com/h120/ng.png",
         "flag_colors": [
             "Green",
             "White"
@@ -1739,7 +1739,7 @@
         "dial_code": "+683",
         "country_code": "NU",
         "emoji": "🇳🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nu.png",
+        "image_url": "https://flagcdn.com/h120/nu.png",
         "flag_colors": [
             "Gold"
         ]
@@ -1748,7 +1748,7 @@
         "dial_code": "+672",
         "country_code": "NF",
         "emoji": "🇳🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/nf.png",
+        "image_url": "https://flagcdn.com/h120/nf.png",
         "flag_colors": [
             "Green",
             "White"
@@ -1758,7 +1758,7 @@
         "dial_code": "+1670",
         "country_code": "MP",
         "emoji": "🏳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mp.png",
+        "image_url": "https://flagcdn.com/h120/mp.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -1768,7 +1768,7 @@
         "dial_code": "+47",
         "country_code": "NO",
         "emoji": "🇳🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/no.png",
+        "image_url": "https://flagcdn.com/h120/no.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1779,7 +1779,7 @@
         "dial_code": "+968",
         "country_code": "OM",
         "emoji": "🇴🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/om.png",
+        "image_url": "https://flagcdn.com/h120/om.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -1790,7 +1790,7 @@
         "dial_code": "+92",
         "country_code": "PK",
         "emoji": "🇵🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pk.png",
+        "image_url": "https://flagcdn.com/h120/pk.png",
         "flag_colors": [
             "Green",
             "White"
@@ -1800,7 +1800,7 @@
         "dial_code": "+680",
         "country_code": "PW",
         "emoji": "🇵🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pw.png",
+        "image_url": "https://flagcdn.com/h120/pw.png",
         "flag_colors": [
             "Yellow",
             "Blue"
@@ -1810,7 +1810,7 @@
         "dial_code": "+970",
         "country_code": "PS",
         "emoji": "🇵🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ps.png",
+        "image_url": "https://flagcdn.com/h120/ps.png",
         "flag_colors": [
             "Black",
             "Green",
@@ -1822,7 +1822,7 @@
         "dial_code": "+507",
         "country_code": "PA",
         "emoji": "🇵🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pa.png",
+        "image_url": "https://flagcdn.com/h120/pa.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1833,7 +1833,7 @@
         "dial_code": "+675",
         "country_code": "PG",
         "emoji": "🇵🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pg.png",
+        "image_url": "https://flagcdn.com/h120/pg.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -1845,7 +1845,7 @@
         "dial_code": "+595",
         "country_code": "PY",
         "emoji": "🇵🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/py.png",
+        "image_url": "https://flagcdn.com/h120/py.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -1856,7 +1856,7 @@
         "dial_code": "+51",
         "country_code": "PE",
         "emoji": "🇵🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pe.png",
+        "image_url": "https://flagcdn.com/h120/pe.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1866,7 +1866,7 @@
         "dial_code": "+63",
         "country_code": "PH",
         "emoji": "🇵🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ph.png",
+        "image_url": "https://flagcdn.com/h120/ph.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1878,7 +1878,7 @@
         "dial_code": "+872",
         "country_code": "PN",
         "emoji": "🇵🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pn.png",
+        "image_url": "https://flagcdn.com/h120/pn.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -1891,7 +1891,7 @@
         "dial_code": "+48",
         "country_code": "PL",
         "emoji": "🇵🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pl.png",
+        "image_url": "https://flagcdn.com/h120/pl.png",
         "flag_colors": [
             "White",
             "Red"
@@ -1901,7 +1901,7 @@
         "dial_code": "+351",
         "country_code": "PT",
         "emoji": "🇵🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pt.png",
+        "image_url": "https://flagcdn.com/h120/pt.png",
         "flag_colors": [
             "Red",
             "Green",
@@ -1912,7 +1912,7 @@
         "dial_code": "+1939",
         "country_code": "PR",
         "emoji": "🇵🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pr.png",
+        "image_url": "https://flagcdn.com/h120/pr.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1923,7 +1923,7 @@
         "dial_code": "+974",
         "country_code": "QA",
         "emoji": "🇶🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/qa.png",
+        "image_url": "https://flagcdn.com/h120/qa.png",
         "flag_colors": [
             "Red",
             "White"
@@ -1933,7 +1933,7 @@
         "dial_code": "+40",
         "country_code": "RO",
         "emoji": "🇷🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ro.png",
+        "image_url": "https://flagcdn.com/h120/ro.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -1944,7 +1944,7 @@
         "dial_code": "+7",
         "country_code": "RU",
         "emoji": "🇷🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ru.png",
+        "image_url": "https://flagcdn.com/h120/ru.png",
         "flag_colors": [
             "White",
             "Blue",
@@ -1955,7 +1955,7 @@
         "dial_code": "+250",
         "country_code": "RW",
         "emoji": "🇷🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/rw.png",
+        "image_url": "https://flagcdn.com/h120/rw.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -1966,7 +1966,7 @@
         "dial_code": "+262",
         "country_code": "RE",
         "emoji": "🇷🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/re.png",
+        "image_url": "https://flagcdn.com/h120/re.png",
         "flag_colors": [
             "Blue",
             "Yellow",
@@ -1977,7 +1977,7 @@
         "dial_code": "+590",
         "country_code": "BL",
         "emoji": "🇧🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/bl.png",
+        "image_url": "https://flagcdn.com/h120/bl.png",
         "flag_colors": [
             "White"
         ]
@@ -1986,7 +1986,7 @@
         "dial_code": "+290",
         "country_code": "SH",
         "emoji": "🇸🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sh.png",
+        "image_url": "https://flagcdn.com/h120/sh.png",
         "flag_colors": [
             "Blue"
         ]
@@ -1995,7 +1995,7 @@
         "dial_code": "+1869",
         "country_code": "KN",
         "emoji": "🇰🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/kn.png",
+        "image_url": "https://flagcdn.com/h120/kn.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -2006,7 +2006,7 @@
         "dial_code": "+1758",
         "country_code": "LC",
         "emoji": "🇱🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lc.png",
+        "image_url": "https://flagcdn.com/h120/lc.png",
         "flag_colors": [
             "Blue",
             "Black",
@@ -2018,7 +2018,7 @@
         "dial_code": "+590",
         "country_code": "MF",
         "emoji": "🇲🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/mf.png",
+        "image_url": "https://flagcdn.com/h120/mf.png",
         "flag_colors": [
             "Blue",
             "White",
@@ -2029,7 +2029,7 @@
         "dial_code": "+508",
         "country_code": "PM",
         "emoji": "🇵🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/pm.png",
+        "image_url": "https://flagcdn.com/h120/pm.png",
         "flag_colors": [
             "Blue",
             "Yellow",
@@ -2040,7 +2040,7 @@
         "dial_code": "+1784",
         "country_code": "VC",
         "emoji": "🇻🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/vc.png",
+        "image_url": "https://flagcdn.com/h120/vc.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -2051,7 +2051,7 @@
         "dial_code": "+685",
         "country_code": "WS",
         "emoji": "🇼🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/as.png",
+        "image_url": "https://flagcdn.com/h120/as.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -2062,7 +2062,7 @@
         "dial_code": "+378",
         "country_code": "SM",
         "emoji": "🇸🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sm.png",
+        "image_url": "https://flagcdn.com/h120/sm.png",
         "flag_colors": [
             "White",
             "Blue"
@@ -2072,7 +2072,7 @@
         "dial_code": "+239",
         "country_code": "ST",
         "emoji": "🇸🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/st.png",
+        "image_url": "https://flagcdn.com/h120/st.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -2084,7 +2084,7 @@
         "dial_code": "+966",
         "country_code": "SA",
         "emoji": "🇸🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sa.png",
+        "image_url": "https://flagcdn.com/h120/sa.png",
         "flag_colors": [
             "Green",
             "White"
@@ -2094,7 +2094,7 @@
         "dial_code": "+221",
         "country_code": "SN",
         "emoji": "🇸🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sn.png",
+        "image_url": "https://flagcdn.com/h120/sn.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -2105,7 +2105,7 @@
         "dial_code": "+381",
         "country_code": "RS",
         "emoji": "🇷🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/rs.png",
+        "image_url": "https://flagcdn.com/h120/rs.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2116,7 +2116,7 @@
         "dial_code": "+248",
         "country_code": "SC",
         "emoji": "🇸🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sc.png",
+        "image_url": "https://flagcdn.com/h120/sc.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -2129,7 +2129,7 @@
         "dial_code": "+232",
         "country_code": "SL",
         "emoji": "🇸🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sl.png",
+        "image_url": "https://flagcdn.com/h120/sl.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -2140,7 +2140,7 @@
         "dial_code": "+65",
         "country_code": "SG",
         "emoji": "🇸🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sg.png",
+        "image_url": "https://flagcdn.com/h120/sg.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2150,7 +2150,7 @@
         "dial_code": "+421",
         "country_code": "SK",
         "emoji": "🇸🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sk.png",
+        "image_url": "https://flagcdn.com/h120/sk.png",
         "flag_colors": [
             "White",
             "Blue",
@@ -2161,12 +2161,9 @@
         "dial_code": "+386",
         "country_code": "SI",
         "emoji": "🇸🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/si.png",
+        "image_url": "https://flagcdn.com/h120/si.png",
         "flag_colors": [
-            "Black",
             "Blue",
-            "Gold",
-            "Green",
             "Red",
             "White"
         ]
@@ -2175,7 +2172,7 @@
         "dial_code": "+677",
         "country_code": "SB",
         "emoji": "🇸🇧",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sb.png",
+        "image_url": "https://flagcdn.com/h120/sb.png",
         "flag_colors": [
             "Green",
             "Blue",
@@ -2186,7 +2183,7 @@
         "dial_code": "+252",
         "country_code": "SO",
         "emoji": "🇸🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/so.png",
+        "image_url": "https://flagcdn.com/h120/so.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -2196,7 +2193,7 @@
         "dial_code": "+27",
         "country_code": "ZA",
         "emoji": "🇿🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/za.png",
+        "image_url": "https://flagcdn.com/h120/za.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2210,7 +2207,7 @@
         "dial_code": "+211",
         "country_code": "SS",
         "emoji": "🇸🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ss.png",
+        "image_url": "https://flagcdn.com/h120/ss.png",
         "flag_colors": [
             "Black",
             "Blue",
@@ -2224,7 +2221,7 @@
         "dial_code": "+500",
         "country_code": "GS",
         "emoji": "🇬🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gs.png",
+        "image_url": "https://flagcdn.com/h120/gs.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -2235,7 +2232,7 @@
         "dial_code": "+34",
         "country_code": "ES",
         "emoji": "🇪🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/es.png",
+        "image_url": "https://flagcdn.com/h120/es.png",
         "flag_colors": [
             "Red",
             "Gold"
@@ -2245,7 +2242,7 @@
         "dial_code": "+94",
         "country_code": "LK",
         "emoji": "🇱🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/lk.png",
+        "image_url": "https://flagcdn.com/h120/lk.png",
         "flag_colors": [
             "Red",
             "Gold",
@@ -2257,7 +2254,7 @@
         "dial_code": "+249",
         "country_code": "SD",
         "emoji": "🇸🇩",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ss.png",
+        "image_url": "https://flagcdn.com/h120/ss.png",
         "flag_colors": [
             "Black",
             "Blue",
@@ -2271,7 +2268,7 @@
         "dial_code": "+597",
         "country_code": "SR",
         "emoji": "🇸🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sr.png",
+        "image_url": "https://flagcdn.com/h120/sr.png",
         "flag_colors": [
             "Gold",
             "Green",
@@ -2283,7 +2280,7 @@
         "dial_code": "+47",
         "country_code": "SJ",
         "emoji": "🇸🇯",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sj.png",
+        "image_url": "https://flagcdn.com/h120/sj.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2294,7 +2291,7 @@
         "dial_code": "+46",
         "country_code": "SE",
         "emoji": "🇸🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/se.png",
+        "image_url": "https://flagcdn.com/h120/se.png",
         "flag_colors": [
             "Blue",
             "Gold"
@@ -2304,7 +2301,7 @@
         "dial_code": "+41",
         "country_code": "CH",
         "emoji": "🇨🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ch.png",
+        "image_url": "https://flagcdn.com/h120/ch.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2314,7 +2311,7 @@
         "dial_code": "+963",
         "country_code": "SY",
         "emoji": "🇸🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/sy.png",
+        "image_url": "https://flagcdn.com/h120/sy.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2326,7 +2323,7 @@
         "dial_code": "+886",
         "country_code": "TW",
         "emoji": "🇹🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tw.png",
+        "image_url": "https://flagcdn.com/h120/tw.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2337,7 +2334,7 @@
         "dial_code": "+992",
         "country_code": "TJ",
         "emoji": "🇹🇯",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tj.png",
+        "image_url": "https://flagcdn.com/h120/tj.png",
         "flag_colors": [
             "Gold",
             "Green",
@@ -2349,7 +2346,7 @@
         "dial_code": "+255",
         "country_code": "TZ",
         "emoji": "🇹🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tz.png",
+        "image_url": "https://flagcdn.com/h120/tz.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -2361,7 +2358,7 @@
         "dial_code": "+66",
         "country_code": "TH",
         "emoji": "🇹🇭",
-        "image_url": "https://www.flagpictures.com/static/images/flags/th.png",
+        "image_url": "https://flagcdn.com/h120/th.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2372,7 +2369,7 @@
         "dial_code": "+670",
         "country_code": "TL",
         "emoji": "🇹🇱",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tl.png",
+        "image_url": "https://flagcdn.com/h120/tl.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2384,7 +2381,7 @@
         "dial_code": "+228",
         "country_code": "TG",
         "emoji": "🇹🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tg.png",
+        "image_url": "https://flagcdn.com/h120/tg.png",
         "flag_colors": [
             "Green",
             "Red",
@@ -2396,7 +2393,7 @@
         "dial_code": "+690",
         "country_code": "TK",
         "emoji": "🇹🇰",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tk.png",
+        "image_url": "https://flagcdn.com/h120/tk.png",
         "flag_colors": [
             "Blue",
             "White",
@@ -2407,7 +2404,7 @@
         "dial_code": "+676",
         "country_code": "TO",
         "emoji": "🇹🇴",
-        "image_url": "https://www.flagpictures.com/static/images/flags/to.png",
+        "image_url": "https://flagcdn.com/h120/to.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2417,7 +2414,7 @@
         "dial_code": "+1868",
         "country_code": "TT",
         "emoji": "🇹🇹",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tt.png",
+        "image_url": "https://flagcdn.com/h120/tt.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2428,7 +2425,7 @@
         "dial_code": "+216",
         "country_code": "TN",
         "emoji": "🇹🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tn.png",
+        "image_url": "https://flagcdn.com/h120/tn.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2438,7 +2435,7 @@
         "dial_code": "+90",
         "country_code": "TR",
         "emoji": "🇹🇷",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tr.png",
+        "image_url": "https://flagcdn.com/h120/tr.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2448,7 +2445,7 @@
         "dial_code": "+993",
         "country_code": "TM",
         "emoji": "🇹🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tm.png",
+        "image_url": "https://flagcdn.com/h120/tm.png",
         "flag_colors": [
             "Green",
             "White"
@@ -2458,18 +2455,16 @@
         "dial_code": "+1649",
         "country_code": "TC",
         "emoji": "🇹🇨",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tc.png",
+        "image_url": "https://flagcdn.com/h120/tc.png",
         "flag_colors": [
-            "Blue",
-            "Red",
-            "White"
+            "Blue"
         ]
     },
     "Tuvalu": {
         "dial_code": "+688",
         "country_code": "TV",
         "emoji": "🇹🇻",
-        "image_url": "https://www.flagpictures.com/static/images/flags/tv.png",
+        "image_url": "https://flagcdn.com/h120/tv.png",
         "flag_colors": [
             "Blue",
             "Gold",
@@ -2481,7 +2476,7 @@
         "dial_code": "+256",
         "country_code": "UG",
         "emoji": "🇺🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ug.png",
+        "image_url": "https://flagcdn.com/h120/ug.png",
         "flag_colors": [
             "Blue",
             "Red",
@@ -2493,7 +2488,7 @@
         "dial_code": "+380",
         "country_code": "UA",
         "emoji": "🇺🇦",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ua.png",
+        "image_url": "https://flagcdn.com/h120/ua.png",
         "flag_colors": [
             "Blue",
             "Gold"
@@ -2503,7 +2498,7 @@
         "dial_code": "+971",
         "country_code": "AE",
         "emoji": "🇦🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ae.png",
+        "image_url": "https://flagcdn.com/h120/ae.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2515,7 +2510,7 @@
         "dial_code": "+44",
         "country_code": "GB",
         "emoji": "🇬🇧",
-        "image_url": "https://www.flagpictures.com/static/images/flags/gb.png",
+        "image_url": "https://flagcdn.com/h120/gb.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2526,7 +2521,7 @@
         "dial_code": "+1",
         "country_code": "US",
         "emoji": "🇺🇸",
-        "image_url": "https://www.flagpictures.com/static/images/flags/us.png",
+        "image_url": "https://flagcdn.com/h120/us.png",
         "flag_colors": [
             "Red",
             "Blue",
@@ -2537,7 +2532,7 @@
         "dial_code": "+598",
         "country_code": "UY",
         "emoji": "🇺🇾",
-        "image_url": "https://www.flagpictures.com/static/images/flags/uy.png",
+        "image_url": "https://flagcdn.com/h120/uy.png",
         "flag_colors": [
             "Blue",
             "White"
@@ -2547,7 +2542,7 @@
         "dial_code": "+998",
         "country_code": "UZ",
         "emoji": "🇺🇿",
-        "image_url": "https://www.flagpictures.com/static/images/flags/uz.png",
+        "image_url": "https://flagcdn.com/h120/uz.png",
         "flag_colors": [
             "Blue",
             "Green",
@@ -2559,7 +2554,7 @@
         "dial_code": "+678",
         "country_code": "VU",
         "emoji": "🇻🇺",
-        "image_url": "https://www.flagpictures.com/static/images/flags/vu.png",
+        "image_url": "https://flagcdn.com/h120/vu.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2571,7 +2566,7 @@
         "dial_code": "+58",
         "country_code": "VE",
         "emoji": "🇻🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ve.png",
+        "image_url": "https://flagcdn.com/h120/ve.png",
         "flag_colors": [
             "Yellow",
             "Blue",
@@ -2582,7 +2577,7 @@
         "dial_code": "+84",
         "country_code": "VN",
         "emoji": "🇻🇳",
-        "image_url": "https://www.flagpictures.com/static/images/flags/vn.png",
+        "image_url": "https://flagcdn.com/h120/vn.png",
         "flag_colors": [
             "Red",
             "Yellow"
@@ -2592,7 +2587,7 @@
         "dial_code": "+1284",
         "country_code": "VG",
         "emoji": "🇻🇬",
-        "image_url": "https://www.flagpictures.com/static/images/flags/vg.png",
+        "image_url": "https://flagcdn.com/h120/vg.png",
         "flag_colors": [
             "Blue"
         ]
@@ -2601,7 +2596,7 @@
         "dial_code": "+1340",
         "country_code": "VI",
         "emoji": "🇻🇮",
-        "image_url": "https://www.flagpictures.com/static/images/flags/vi.png",
+        "image_url": "https://flagcdn.com/h120/vi.png",
         "flag_colors": [
             "White",
             "Gold"
@@ -2611,7 +2606,7 @@
         "dial_code": "+681",
         "country_code": "WF",
         "emoji": "🇼🇫",
-        "image_url": "https://www.flagpictures.com/static/images/flags/wf.png",
+        "image_url": "https://flagcdn.com/h120/wf.png",
         "flag_colors": [
             "Red",
             "White"
@@ -2621,7 +2616,7 @@
         "dial_code": "+967",
         "country_code": "YE",
         "emoji": "🇾🇪",
-        "image_url": "https://www.flagpictures.com/static/images/flags/ye.png",
+        "image_url": "https://flagcdn.com/h120/ye.png",
         "flag_colors": [
             "Red",
             "Black",
@@ -2632,7 +2627,7 @@
         "dial_code": "+260",
         "country_code": "ZM",
         "emoji": "🇿🇲",
-        "image_url": "https://www.flagpictures.com/static/images/flags/zm.png",
+        "image_url": "https://flagcdn.com/h120/zm.png",
         "flag_colors": [
             "Green",
             "Black",
@@ -2644,7 +2639,7 @@
         "dial_code": "+263",
         "country_code": "ZW",
         "emoji": "🇿🇼",
-        "image_url": "https://www.flagpictures.com/static/images/flags/zw.png",
+        "image_url": "https://flagcdn.com/h120/zw.png",
         "flag_colors": [
             "Green",
             "Black",
