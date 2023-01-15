@@ -10,14 +10,15 @@
         <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-yellow" onclick="filterByColor('yellow')">Yellow</button></th>
         <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-gold" onclick="filterByColor('gold')">Gold</button></th>
         <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-orange" onclick="filterByColor('orange')">Orange</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-reset" onclick="resetFilters()">Reset</button></th>
     </tr>
 
 
-<table class="table table-sm table-striped">
+<table class="table table-sm">
 {% for key, value in countries.items %}
     <tr class="flag-row {% for color in value.flag_colors %}flag-{{ color|lower }} {% endfor %}">
         <th>{{ key }}</th>
-        <th> <img src="{{ value.image_url }}"  width="120" height="90"></th>
+        <th> <img alt="{{ key }}" src="{{ value.image_url }}"  width="120" height="90"></th>
     </tr>
 {% endfor %}
 </table>

@@ -15,12 +15,25 @@ function filterByColor(color) {
         element.classList.add('hidden-flag');
       }
     }
+}
 
-
+function resetFilters(){
+    // 1. Uncheck the buttons
+    const buttons = document.getElementsByClassName("btn-flag");
+    for (let i = 0; i < buttons.length; i++) {
+        let button = buttons[i]
+        button.classList.remove('active-btn-flag');
+    }
+    // 2. Show hidden flags
+    const elements = document.getElementsByClassName("flag-row");
+    for (let i = 0; i < elements.length; i++) {
+      const element = elements[i];
+        element.classList.remove('hidden-flag');
+    }
 }
 
 function togglePropertyInList(property) {
-    // Remove the 'btn-'
+    // Remove the 'btn-' part of the class
     property = property.slice(4)
     if (selectedFlags.includes(property)) {
         selectedFlags = selectedFlags.filter(arrayItem => arrayItem !== property);
@@ -33,15 +46,4 @@ function isFlagSelected(flagElement) {
     return selectedFlags.every(element => Array.from(flagElement.classList).includes(element));
 }
 
-
 Array.from(document.getElementsByClassName("btn-flag")).forEach(btn => btn.addEventListener("click", filterByColor));
-
-/*
-If len(selectedFlags) === 0
-
-
-
-
-
-
- */
