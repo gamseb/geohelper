@@ -1,0 +1,37 @@
+.btn-flag {
+    color:black;
+    border-width: 3px;
+    border-color: gray;
+}
+.active-btn-flag {
+    /*border-width: 8px !important;*/
+    border-color: black;
+}
+.hidden-flag {
+    visibility: collapse !important;
+}
+#btn-flag-red {
+    background-color: red;
+}
+#btn-flag-blue {
+    background-color: #1F35F1;
+}
+#btn-flag-green {
+    background-color: #1A9B33;
+}
+#btn-flag-white {
+    background-color: white;
+}
+#btn-flag-black {
+    background-color: black;
+    color:white;
+}
+#btn-flag-yellow {
+    background-color: yellow;
+}
+#btn-flag-gold {
+    background-color: gold;
+}
+#btn-flag-orange {
+    background-color: orange;
+}

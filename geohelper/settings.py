@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'flags.apps.FlagsConfig',
     'phone_prefix.apps.PhonePrefixConfig',
     'home.apps.HomeConfig',
     'django.contrib.admin',

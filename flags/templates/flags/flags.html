@@ -1,0 +1,26 @@
+{% extends "home/base.html" %}
+{% block content %}
+
+    <tr>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-red" onclick="filterByColor('red')">Red</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-blue" onclick="filterByColor('blue')">Blue</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-green" onclick="filterByColor('green')">Green</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-white" onclick="filterByColor('white')">White</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-black" onclick="filterByColor('black')">Black</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-yellow" onclick="filterByColor('yellow')">Yellow</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-gold" onclick="filterByColor('gold')">Gold</button></th>
+        <th><button type="button" class="btn btn-dark btn-flag" id="btn-flag-orange" onclick="filterByColor('orange')">Orange</button></th>
+    </tr>
+
+
+<table class="table table-sm table-striped">
+{% for key, value in countries.items %}
+    <tr class="flag-row {% for color in value.flag_colors %}flag-{{ color|lower }} {% endfor %}">
+        <th>{{ key }}</th>
+        <th> <img src="{{ value.image_url }}"  width="120" height="90"></th>
+    </tr>
+{% endfor %}
+</table>
+
+
+{% endblock content %}

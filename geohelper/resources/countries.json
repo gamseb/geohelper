@@ -115,7 +115,6 @@
         "emoji": "🇦🇷",
         "image_url": "https://www.flagpictures.com/static/images/flags/ar.png",
         "flag_colors": [
-            "Light",
             "Blue",
             "White"
         ]
@@ -169,7 +168,6 @@
         "emoji": "🇦🇿",
         "image_url": "https://www.flagpictures.com/static/images/flags/az.png",
         "flag_colors": [
-            "Light",
             "Blue",
             "Green",
             "Red"
@@ -182,7 +180,6 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/bs.png",
         "flag_colors": [
             "Black",
-            "Aquamarine",
             "Blue",
             "Yellow"
         ]
@@ -277,7 +274,7 @@
         "emoji": "🇧🇹",
         "image_url": "https://www.flagpictures.com/static/images/flags/bt.png",
         "flag_colors": [
-            "Fulvous",
+            "Red",
             "Gold",
             "White"
         ]
@@ -310,7 +307,6 @@
         "emoji": "🇧🇼",
         "image_url": "https://www.flagpictures.com/static/images/flags/bw.png",
         "flag_colors": [
-            "Light",
             "Blue",
             "Black",
             "White"
@@ -646,7 +642,6 @@
         "emoji": "🇩🇯",
         "image_url": "https://www.flagpictures.com/static/images/flags/dj.png",
         "flag_colors": [
-            "Light",
             "Blue",
             "Green",
             "Red",
@@ -791,11 +786,8 @@
         "emoji": "🇫🇯",
         "image_url": "https://www.flagpictures.com/static/images/flags/fj.png",
         "flag_colors": [
-            "Dark",
             "Blue",
             "Gold",
-            "Light",
-            "Blue",
             "Red",
             "White"
         ]
@@ -839,7 +831,7 @@
         "flag_colors": [
             "Red",
             "Blue",
-            "Golden",
+            "Gold",
             "White"
         ]
     },
@@ -1089,7 +1081,7 @@
         "flag_colors": [
             "Blue",
             "Green",
-            "Gold",
+            "Orange",
             "White"
         ]
     },
@@ -1133,8 +1125,8 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/ie.png",
         "flag_colors": [
             "Green",
-            "Or",
-            "Blue"
+            "White",
+            "Orange"
         ]
     },
     "Isle Of Man": {
@@ -1385,7 +1377,6 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/lu.png",
         "flag_colors": [
             "Red",
-            "Light",
             "Blue",
             "White"
         ]
@@ -1439,7 +1430,6 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/my.png",
         "flag_colors": [
             "Red",
-            "Dark",
             "Blue",
             "White",
             "Yellow"
@@ -1665,7 +1655,7 @@
         "emoji": "🇳🇵",
         "image_url": "https://www.flagpictures.com/static/images/flags/np.png",
         "flag_colors": [
-            "Crimson",
+            "Red",
             "Blue",
             "White"
         ]
@@ -1891,8 +1881,6 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/pn.png",
         "flag_colors": [
             "Blue",
-            "Black",
-            "Brown",
             "Green",
             "Red",
             "White",
@@ -1937,7 +1925,7 @@
         "emoji": "🇶🇦",
         "image_url": "https://www.flagpictures.com/static/images/flags/qa.png",
         "flag_colors": [
-            "Maroon",
+            "Red",
             "White"
         ]
     },
@@ -1969,7 +1957,6 @@
         "emoji": "🇷🇼",
         "image_url": "https://www.flagpictures.com/static/images/flags/rw.png",
         "flag_colors": [
-            "Sky",
             "Blue",
             "Green",
             "Yellow"
@@ -2021,7 +2008,6 @@
         "emoji": "🇱🇨",
         "image_url": "https://www.flagpictures.com/static/images/flags/lc.png",
         "flag_colors": [
-            "Light",
             "Blue",
             "Black",
             "White",
@@ -2079,7 +2065,6 @@
         "image_url": "https://www.flagpictures.com/static/images/flags/sm.png",
         "flag_colors": [
             "White",
-            "Light",
             "Blue"
         ]
     },
@@ -2192,7 +2177,6 @@
         "emoji": "🇸🇧",
         "image_url": "https://www.flagpictures.com/static/images/flags/sb.png",
         "flag_colors": [
-            "Olive",
             "Green",
             "Blue",
             "Yellow"
@@ -2242,7 +2226,9 @@
         "emoji": "🇬🇸",
         "image_url": "https://www.flagpictures.com/static/images/flags/gs.png",
         "flag_colors": [
-            "Blue"
+            "Blue",
+            "Red",
+            "White"
         ]
     },
     "Spain": {
@@ -2261,7 +2247,7 @@
         "emoji": "🇱🇰",
         "image_url": "https://www.flagpictures.com/static/images/flags/lk.png",
         "flag_colors": [
-            "Maroon",
+            "Red",
             "Gold",
             "Green",
             "Orange"
@@ -2353,7 +2339,7 @@
         "emoji": "🇹🇯",
         "image_url": "https://www.flagpictures.com/static/images/flags/tj.png",
         "flag_colors": [
-            "Golden",
+            "Gold",
             "Green",
             "Red",
             "White"
@@ -2474,7 +2460,9 @@
         "emoji": "🇹🇨",
         "image_url": "https://www.flagpictures.com/static/images/flags/tc.png",
         "flag_colors": [
-            "Blue"
+            "Blue",
+            "Red",
+            "White"
         ]
     },
     "Tuvalu": {
@@ -2483,12 +2471,9 @@
         "emoji": "🇹🇻",
         "image_url": "https://www.flagpictures.com/static/images/flags/tv.png",
         "flag_colors": [
-            "Dark",
             "Blue",
             "Gold",
             "Red",
-            "Sky",
-            "Blue",
             "White"
         ]
     },

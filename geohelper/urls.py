@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('home.urls')),
     path('phone_prefix/', include('phone_prefix.urls')),
+    path('flags/', include('flags.urls')),
 ]
