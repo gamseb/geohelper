@@ -1,1454 +1,2671 @@
-[
-  {
-    "name": "Afghanistan",
-    "dial_code": "+93",
-    "code": "AF",
-    "emoji": "🇦🇫"
-  },
-  {
-    "name": "Aland Islands",
-    "dial_code": "+358",
-    "code": "AX",
-    "emoji": "🇦🇽"
-  },
-  {
-    "name": "Albania",
-    "dial_code": "+355",
-    "code": "AL",
-    "emoji": "🇦🇱"
-  },
-  {
-    "name": "Algeria",
-    "dial_code": "+213",
-    "code": "DZ",
-    "emoji": "🇩🇿"
-  },
-  {
-    "name": "AmericanSamoa",
-    "dial_code": "+1684",
-    "code": "AS",
-    "emoji": "🇦🇸"
-  },
-  {
-    "name": "Andorra",
-    "dial_code": "+376",
-    "code": "AD",
-    "emoji": "🇦🇩"
-  },
-  {
-    "name": "Angola",
-    "dial_code": "+244",
-    "code": "AO",
-    "emoji": "🇦🇴"
-  },
-  {
-    "name": "Anguilla",
-    "dial_code": "+1264",
-    "code": "AI",
-    "emoji": "🇦🇮"
-  },
-  {
-    "name": "Antarctica",
-    "dial_code": "+672",
-    "code": "AQ",
-    "emoji": "🇦🇶"
-  },
-  {
-    "name": "Antigua and Barbuda",
-    "dial_code": "+1268",
-    "code": "AG",
-    "emoji": "🇦🇬"
-  },
-  {
-    "name": "Argentina",
-    "dial_code": "+54",
-    "code": "AR",
-    "emoji": "🇦🇷"
-  },
-  {
-    "name": "Armenia",
-    "dial_code": "+374",
-    "code": "AM",
-    "emoji": "🇦🇲"
-  },
-  {
-    "name": "Aruba",
-    "dial_code": "+297",
-    "code": "AW",
-    "emoji": "🇦🇼"
-  },
-  {
-    "name": "Australia",
-    "dial_code": "+61",
-    "code": "AU",
-    "emoji": "🇦🇺"
-  },
-  {
-    "name": "Austria",
-    "dial_code": "+43",
-    "code": "AT",
-    "emoji": "🇦🇹"
-  },
-  {
-    "name": "Azerbaijan",
-    "dial_code": "+994",
-    "code": "AZ",
-    "emoji": "🇦🇿"
-  },
-  {
-    "name": "Bahamas",
-    "dial_code": "+1242",
-    "code": "BS",
-    "emoji": "🇧🇸"
-  },
-  {
-    "name": "Bahrain",
-    "dial_code": "+973",
-    "code": "BH",
-    "emoji": "🇧🇭"
-  },
-  {
-    "name": "Bangladesh",
-    "dial_code": "+880",
-    "code": "BD",
-    "emoji": "🇧🇩"
-  },
-  {
-    "name": "Barbados",
-    "dial_code": "+1246",
-    "code": "BB",
-    "emoji": "🇧🇧"
-  },
-  {
-    "name": "Belarus",
-    "dial_code": "+375",
-    "code": "BY",
-    "emoji": "🇧🇾"
-  },
-  {
-    "name": "Belgium",
-    "dial_code": "+32",
-    "code": "BE",
-    "emoji": "🇧🇪"
-  },
-  {
-    "name": "Belize",
-    "dial_code": "+501",
-    "code": "BZ",
-    "emoji": "🇧🇿"
-  },
-  {
-    "name": "Benin",
-    "dial_code": "+229",
-    "code": "BJ",
-    "emoji": "🇧🇯"
-  },
-  {
-    "name": "Bermuda",
-    "dial_code": "+1441",
-    "code": "BM",
-    "emoji": "🇧🇲"
-  },
-  {
-    "name": "Bhutan",
-    "dial_code": "+975",
-    "code": "BT",
-    "emoji": "🇧🇹"
-  },
-  {
-    "name": "Bolivia, Plurinational State of",
-    "dial_code": "+591",
-    "code": "BO",
-    "emoji": "🇧🇴"
-  },
-  {
-    "name": "Bosnia and Herzegovina",
-    "dial_code": "+387",
-    "code": "BA",
-    "emoji": "🇧🇦"
-  },
-  {
-    "name": "Botswana",
-    "dial_code": "+267",
-    "code": "BW",
-    "emoji": "🇧🇼"
-  },
-  {
-    "name": "Brazil",
-    "dial_code": "+55",
-    "code": "BR",
-    "emoji": "🇧🇷"
-  },
-  {
-    "name": "British Indian Ocean Territory",
-    "dial_code": "+246",
-    "code": "IO",
-    "emoji": "🇮🇴"
-  },
-  {
-    "name": "Brunei Darussalam",
-    "dial_code": "+673",
-    "code": "BN",
-    "emoji": "🇧🇳"
-  },
-  {
-    "name": "Bulgaria",
-    "dial_code": "+359",
-    "code": "BG",
-    "emoji": "🇧🇬"
-  },
-  {
-    "name": "Burkina Faso",
-    "dial_code": "+226",
-    "code": "BF",
-    "emoji": "🇧🇫"
-  },
-  {
-    "name": "Burundi",
-    "dial_code": "+257",
-    "code": "BI",
-    "emoji": "🇧🇮"
-  },
-  {
-    "name": "Cambodia",
-    "dial_code": "+855",
-    "code": "KH",
-    "emoji": "🇰🇭"
-  },
-  {
-    "name": "Cameroon",
-    "dial_code": "+237",
-    "code": "CM",
-    "emoji": "🇨🇲"
-  },
-  {
-    "name": "Canada",
-    "dial_code": "+1",
-    "code": "CA",
-    "emoji": "🇨🇦"
-  },
-  {
-    "name": "Cape Verde",
-    "dial_code": "+238",
-    "code": "CV",
-    "emoji": "🇨🇻"
-  },
-  {
-    "name": "Cayman Islands",
-    "dial_code": "+ 345",
-    "code": "KY",
-    "emoji": "🇰🇾"
-  },
-  {
-    "name": "Central African Republic",
-    "dial_code": "+236",
-    "code": "CF",
-    "emoji": "🇨🇫"
-  },
-  {
-    "name": "Chad",
-    "dial_code": "+235",
-    "code": "TD",
-    "emoji": "🇹🇩"
-  },
-  {
-    "name": "Chile",
-    "dial_code": "+56",
-    "code": "CL",
-    "emoji": "🇨🇱"
-  },
-  {
-    "name": "China",
-    "dial_code": "+86",
-    "code": "CN",
-    "emoji": "🇨🇳"
-  },
-  {
-    "name": "Christmas Island",
-    "dial_code": "+61",
-    "code": "CX",
-    "emoji": "🇨🇽"
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "dial_code": "+61",
-    "code": "CC",
-    "emoji": "🇨🇨"
-  },
-  {
-    "name": "Colombia",
-    "dial_code": "+57",
-    "code": "CO",
-    "emoji": "🇨🇴"
-  },
-  {
-    "name": "Comoros",
-    "dial_code": "+269",
-    "code": "KM",
-    "emoji": "🇰🇲"
-  },
-  {
-    "name": "Congo",
-    "dial_code": "+242",
-    "code": "CG",
-    "emoji": "🇨🇬"
-  },
-  {
-    "name": "Congo, The Democratic Republic of the Congo",
-    "dial_code": "+243",
-    "code": "CD",
-    "emoji": "🇨🇩"
-  },
-  {
-    "name": "Cook Islands",
-    "dial_code": "+682",
-    "code": "CK",
-    "emoji": "🇨🇰"
-  },
-  {
-    "name": "Costa Rica",
-    "dial_code": "+506",
-    "code": "CR",
-    "emoji": "🇨🇷"
-  },
-  {
-    "name": "Cote d'Ivoire",
-    "dial_code": "+225",
-    "code": "CI",
-    "emoji": "🇨🇮"
-  },
-  {
-    "name": "Croatia",
-    "dial_code": "+385",
-    "code": "HR",
-    "emoji": "🇭🇷"
-  },
-  {
-    "name": "Cuba",
-    "dial_code": "+53",
-    "code": "CU",
-    "emoji": "🇨🇺"
-  },
-  {
-    "name": "Cyprus",
-    "dial_code": "+357",
-    "code": "CY",
-    "emoji": "🇨🇾"
-  },
-  {
-    "name": "Czech Republic",
-    "dial_code": "+420",
-    "code": "CZ",
-    "emoji": "🇨🇿"
-  },
-  {
-    "name": "Denmark",
-    "dial_code": "+45",
-    "code": "DK",
-    "emoji": "🇩🇰"
-  },
-  {
-    "name": "Djibouti",
-    "dial_code": "+253",
-    "code": "DJ",
-    "emoji": "🇩🇯"
-  },
-  {
-    "name": "Dominica",
-    "dial_code": "+1767",
-    "code": "DM",
-    "emoji": "🇩🇲"
-  },
-  {
-    "name": "Dominican Republic",
-    "dial_code": "+1849",
-    "code": "DO",
-    "emoji": "🇩🇴"
-  },
-  {
-    "name": "Ecuador",
-    "dial_code": "+593",
-    "code": "EC",
-    "emoji": "🇪🇨"
-  },
-  {
-    "name": "Egypt",
-    "dial_code": "+20",
-    "code": "EG",
-    "emoji": "🇪🇬"
-  },
-  {
-    "name": "El Salvador",
-    "dial_code": "+503",
-    "code": "SV",
-    "emoji": "🇸🇻"
-  },
-  {
-    "name": "Equatorial Guinea",
-    "dial_code": "+240",
-    "code": "GQ",
-    "emoji": "🇬🇶"
-  },
-  {
-    "name": "Eritrea",
-    "dial_code": "+291",
-    "code": "ER",
-    "emoji": "🇪🇷"
-  },
-  {
-    "name": "Estonia",
-    "dial_code": "+372",
-    "code": "EE",
-    "emoji": "🇪🇪"
-  },
-  {
-    "name": "Ethiopia",
-    "dial_code": "+251",
-    "code": "ET",
-    "emoji": "🇪🇹"
-  },
-  {
-    "name": "Falkland Islands (Malvinas)",
-    "dial_code": "+500",
-    "code": "FK",
-    "emoji": "🇫🇰"
-  },
-  {
-    "name": "Faroe Islands",
-    "dial_code": "+298",
-    "code": "FO",
-    "emoji": "🇫🇴"
-  },
-  {
-    "name": "Fiji",
-    "dial_code": "+679",
-    "code": "FJ",
-    "emoji": "🇫🇯"
-  },
-  {
-    "name": "Finland",
-    "dial_code": "+358",
-    "code": "FI",
-    "emoji": "🇫🇮"
-  },
-  {
-    "name": "France",
-    "dial_code": "+33",
-    "code": "FR",
-    "emoji": "🇫🇷"
-  },
-  {
-    "name": "French Guiana",
-    "dial_code": "+594",
-    "code": "GF",
-    "emoji": "🇬🇫"
-  },
-  {
-    "name": "French Polynesia",
-    "dial_code": "+689",
-    "code": "PF",
-    "emoji": "🇵🇫"
-  },
-  {
-    "name": "Gabon",
-    "dial_code": "+241",
-    "code": "GA",
-    "emoji": "🇬🇦"
-  },
-  {
-    "name": "Gambia",
-    "dial_code": "+220",
-    "code": "GM",
-    "emoji": "🇬🇲"
-  },
-  {
-    "name": "Georgia",
-    "dial_code": "+995",
-    "code": "GE",
-    "emoji": "🇬🇪"
-  },
-  {
-    "name": "Germany",
-    "dial_code": "+49",
-    "code": "DE",
-    "emoji": "🇩🇪"
-  },
-  {
-    "name": "Ghana",
-    "dial_code": "+233",
-    "code": "GH",
-    "emoji": "🇬🇭"
-  },
-  {
-    "name": "Gibraltar",
-    "dial_code": "+350",
-    "code": "GI",
-    "emoji": "🇬🇮"
-  },
-  {
-    "name": "Greece",
-    "dial_code": "+30",
-    "code": "GR",
-    "emoji": "🇬🇷"
-  },
-  {
-    "name": "Greenland",
-    "dial_code": "+299",
-    "code": "GL",
-    "emoji": "🇬🇱"
-  },
-  {
-    "name": "Grenada",
-    "dial_code": "+1473",
-    "code": "GD",
-    "emoji": "🇬🇩"
-  },
-  {
-    "name": "Guadeloupe",
-    "dial_code": "+590",
-    "code": "GP",
-    "emoji": "🇬🇵"
-  },
-  {
-    "name": "Guam",
-    "dial_code": "+1671",
-    "code": "GU",
-    "emoji": "🇬🇺"
-  },
-  {
-    "name": "Guatemala",
-    "dial_code": "+502",
-    "code": "GT",
-    "emoji": "🇬🇹"
-  },
-  {
-    "name": "Guernsey",
-    "dial_code": "+44",
-    "code": "GG",
-    "emoji": "🇬🇬"
-  },
-  {
-    "name": "Guinea",
-    "dial_code": "+224",
-    "code": "GN",
-    "emoji": "🇬🇳"
-  },
-  {
-    "name": "Guinea-Bissau",
-    "dial_code": "+245",
-    "code": "GW",
-    "emoji": "🇬🇼"
-  },
-  {
-    "name": "Guyana",
-    "dial_code": "+595",
-    "code": "GY",
-    "emoji": "🇬🇾"
-  },
-  {
-    "name": "Haiti",
-    "dial_code": "+509",
-    "code": "HT",
-    "emoji": "🇭🇹"
-  },
-  {
-    "name": "Holy See (Vatican City State)",
-    "dial_code": "+379",
-    "code": "VA",
-    "emoji": "🇻🇦"
-  },
-  {
-    "name": "Honduras",
-    "dial_code": "+504",
-    "code": "HN",
-    "emoji": "🇭🇳"
-  },
-  {
-    "name": "Hong Kong",
-    "dial_code": "+852",
-    "code": "HK",
-    "emoji": "🇭🇰"
-  },
-  {
-    "name": "Hungary",
-    "dial_code": "+36",
-    "code": "HU",
-    "emoji": "🇭🇺"
-  },
-  {
-    "name": "Iceland",
-    "dial_code": "+354",
-    "code": "IS",
-    "emoji": "🇮🇸"
-  },
-  {
-    "name": "India",
-    "dial_code": "+91",
-    "code": "IN",
-    "emoji": "🇮🇳"
-  },
-  {
-    "name": "Indonesia",
-    "dial_code": "+62",
-    "code": "ID",
-    "emoji": "🇮🇩"
-  },
-  {
-    "name": "Iran, Islamic Republic of Persian Gulf",
-    "dial_code": "+98",
-    "code": "IR",
-    "emoji": "🇮🇷"
-  },
-  {
-    "name": "Iraq",
-    "dial_code": "+964",
-    "code": "IQ",
-    "emoji": "🇮🇶"
-  },
-  {
-    "name": "Ireland",
-    "dial_code": "+353",
-    "code": "IE",
-    "emoji": "🇮🇪"
-  },
-  {
-    "name": "Isle of Man",
-    "dial_code": "+44",
-    "code": "IM",
-    "emoji": "🇮🇲"
-  },
-  {
-    "name": "Israel",
-    "dial_code": "+972",
-    "code": "IL",
-    "emoji": "🇮🇱"
-  },
-  {
-    "name": "Italy",
-    "dial_code": "+39",
-    "code": "IT",
-    "emoji": "🇮🇹"
-  },
-  {
-    "name": "Jamaica",
-    "dial_code": "+1876",
-    "code": "JM",
-    "emoji": "🇯🇲"
-  },
-  {
-    "name": "Japan",
-    "dial_code": "+81",
-    "code": "JP",
-    "emoji": "🇯🇵"
-  },
-  {
-    "name": "Jersey",
-    "dial_code": "+44",
-    "code": "JE",
-    "emoji": "🇯🇪"
-  },
-  {
-    "name": "Jordan",
-    "dial_code": "+962",
-    "code": "JO",
-    "emoji": "🇯🇴"
-  },
-  {
-    "name": "Kazakhstan",
-    "dial_code": "+77",
-    "code": "KZ",
-    "emoji": "🇰🇿"
-  },
-  {
-    "name": "Kenya",
-    "dial_code": "+254",
-    "code": "KE",
-    "emoji": "🇰🇪"
-  },
-  {
-    "name": "Kiribati",
-    "dial_code": "+686",
-    "code": "KI",
-    "emoji": "🇰🇮"
-  },
-  {
-    "name": "Korea, Democratic People's Republic of Korea",
-    "dial_code": "+850",
-    "code": "KP",
-    "emoji": "🇰🇵"
-  },
-  {
-    "name": "Korea, Republic of South Korea",
-    "dial_code": "+82",
-    "code": "KR",
-    "emoji": "🇰🇷"
-  },
-  {
-    "name": "Kuwait",
-    "dial_code": "+965",
-    "code": "KW",
-    "emoji": "🇰🇼"
-  },
-  {
-    "name": "Kyrgyzstan",
-    "dial_code": "+996",
-    "code": "KG",
-    "emoji": "🇰🇬"
-  },
-  {
-    "name": "Laos",
-    "dial_code": "+856",
-    "code": "LA",
-    "emoji": "🇱🇦"
-  },
-  {
-    "name": "Latvia",
-    "dial_code": "+371",
-    "code": "LV",
-    "emoji": "🇱🇻"
-  },
-  {
-    "name": "Lebanon",
-    "dial_code": "+961",
-    "code": "LB",
-    "emoji": "🇱🇧"
-  },
-  {
-    "name": "Lesotho",
-    "dial_code": "+266",
-    "code": "LS",
-    "emoji": "🇱🇸"
-  },
-  {
-    "name": "Liberia",
-    "dial_code": "+231",
-    "code": "LR",
-    "emoji": "🇱🇷"
-  },
-  {
-    "name": "Libyan Arab Jamahiriya",
-    "dial_code": "+218",
-    "code": "LY",
-    "emoji": "🇱🇾"
-  },
-  {
-    "name": "Liechtenstein",
-    "dial_code": "+423",
-    "code": "LI",
-    "emoji": "🇱🇮"
-  },
-  {
-    "name": "Lithuania",
-    "dial_code": "+370",
-    "code": "LT",
-    "emoji": "🇱🇹"
-  },
-  {
-    "name": "Luxembourg",
-    "dial_code": "+352",
-    "code": "LU",
-    "emoji": "🇱🇺"
-  },
-  {
-    "name": "Macao",
-    "dial_code": "+853",
-    "code": "MO",
-    "emoji": "🇲🇴"
-  },
-  {
-    "name": "Macedonia",
-    "dial_code": "+389",
-    "code": "MK",
-    "emoji": "🇲🇰"
-  },
-  {
-    "name": "Madagascar",
-    "dial_code": "+261",
-    "code": "MG",
-    "emoji": "🇲🇬"
-  },
-  {
-    "name": "Malawi",
-    "dial_code": "+265",
-    "code": "MW",
-    "emoji": "🇲🇼"
-  },
-  {
-    "name": "Malaysia",
-    "dial_code": "+60",
-    "code": "MY",
-    "emoji": "🇲🇾"
-  },
-  {
-    "name": "Maldives",
-    "dial_code": "+960",
-    "code": "MV",
-    "emoji": "🇲🇻"
-  },
-  {
-    "name": "Mali",
-    "dial_code": "+223",
-    "code": "ML",
-    "emoji": "🇲🇱"
-  },
-  {
-    "name": "Malta",
-    "dial_code": "+356",
-    "code": "MT",
-    "emoji": "🇲🇹"
-  },
-  {
-    "name": "Marshall Islands",
-    "dial_code": "+692",
-    "code": "MH",
-    "emoji": "🇲🇭"
-  },
-  {
-    "name": "Martinique",
-    "dial_code": "+596",
-    "code": "MQ",
-    "emoji": "🇲🇶"
-  },
-  {
-    "name": "Mauritania",
-    "dial_code": "+222",
-    "code": "MR",
-    "emoji": "🇲🇷"
-  },
-  {
-    "name": "Mauritius",
-    "dial_code": "+230",
-    "code": "MU",
-    "emoji": "🇲🇺"
-  },
-  {
-    "name": "Mayotte",
-    "dial_code": "+262",
-    "code": "YT",
-    "emoji": "🇾🇹"
-  },
-  {
-    "name": "Mexico",
-    "dial_code": "+52",
-    "code": "MX",
-    "emoji": "🇲🇽"
-  },
-  {
-    "name": "Micronesia, Federated States of Micronesia",
-    "dial_code": "+691",
-    "code": "FM",
-    "emoji": "🇫🇲"
-  },
-  {
-    "name": "Moldova",
-    "dial_code": "+373",
-    "code": "MD",
-    "emoji": "🇲🇩"
-  },
-  {
-    "name": "Monaco",
-    "dial_code": "+377",
-    "code": "MC",
-    "emoji": "🇲🇨"
-  },
-  {
-    "name": "Mongolia",
-    "dial_code": "+976",
-    "code": "MN",
-    "emoji": "🇲🇳"
-  },
-  {
-    "name": "Montenegro",
-    "dial_code": "+382",
-    "code": "ME",
-    "emoji": "🇲🇪"
-  },
-  {
-    "name": "Montserrat",
-    "dial_code": "+1664",
-    "code": "MS",
-    "emoji": "🇲🇸"
-  },
-  {
-    "name": "Morocco",
-    "dial_code": "+212",
-    "code": "MA",
-    "emoji": "🇲🇦"
-  },
-  {
-    "name": "Mozambique",
-    "dial_code": "+258",
-    "code": "MZ",
-    "emoji": "🇲🇿"
-  },
-  {
-    "name": "Myanmar",
-    "dial_code": "+95",
-    "code": "MM",
-    "emoji": "🇲🇲"
-  },
-  {
-    "name": "Namibia",
-    "dial_code": "+264",
-    "code": "NA",
-    "emoji": "🇳🇦"
-  },
-  {
-    "name": "Nauru",
-    "dial_code": "+674",
-    "code": "NR",
-    "emoji": "🇳🇷"
-  },
-  {
-    "name": "Nepal",
-    "dial_code": "+977",
-    "code": "NP",
-    "emoji": "🇳🇵"
-  },
-  {
-    "name": "Netherlands",
-    "dial_code": "+31",
-    "code": "NL",
-    "emoji": "🇳🇱"
-  },
-  {
-    "name": "Netherlands Antilles",
-    "dial_code": "+599",
-    "code": "AN",
-    "emoji": "🇳🇱"
-  },
-  {
-    "name": "New Caledonia",
-    "dial_code": "+687",
-    "code": "NC",
-    "emoji": "🇳🇨"
-  },
-  {
-    "name": "New Zealand",
-    "dial_code": "+64",
-    "code": "NZ",
-    "emoji": "🇳🇿"
-  },
-  {
-    "name": "Nicaragua",
-    "dial_code": "+505",
-    "code": "NI",
-    "emoji": "🇳🇮"
-  },
-  {
-    "name": "Niger",
-    "dial_code": "+227",
-    "code": "NE",
-    "emoji": "🇳🇪"
-  },
-  {
-    "name": "Nigeria",
-    "dial_code": "+234",
-    "code": "NG",
-    "emoji": "🇳🇬"
-  },
-  {
-    "name": "Niue",
-    "dial_code": "+683",
-    "code": "NU",
-    "emoji": "🇳🇺"
-  },
-  {
-    "name": "Norfolk Island",
-    "dial_code": "+672",
-    "code": "NF",
-    "emoji": "🇳🇫"
-  },
-  {
-    "name": "Northern Mariana Islands",
-    "dial_code": "+1670",
-    "code": "MP",
-    "emoji": "🏳"
-  },
-  {
-    "name": "Norway",
-    "dial_code": "+47",
-    "code": "NO",
-    "emoji": "🇳🇴"
-  },
-  {
-    "name": "Oman",
-    "dial_code": "+968",
-    "code": "OM",
-    "emoji": "🇴🇲"
-  },
-  {
-    "name": "Pakistan",
-    "dial_code": "+92",
-    "code": "PK",
-    "emoji": "🇵🇰"
-  },
-  {
-    "name": "Palau",
-    "dial_code": "+680",
-    "code": "PW",
-    "emoji": "🇵🇼"
-  },
-  {
-    "name": "Palestinian Territory, Occupied",
-    "dial_code": "+970",
-    "code": "PS",
-    "emoji": "🇵🇸"
-  },
-  {
-    "name": "Panama",
-    "dial_code": "+507",
-    "code": "PA",
-    "emoji": "🇵🇦"
-  },
-  {
-    "name": "Papua New Guinea",
-    "dial_code": "+675",
-    "code": "PG",
-    "emoji": "🇵🇬"
-  },
-  {
-    "name": "Paraguay",
-    "dial_code": "+595",
-    "code": "PY",
-    "emoji": "🇵🇾"
-  },
-  {
-    "name": "Peru",
-    "dial_code": "+51",
-    "code": "PE",
-    "emoji": "🇵🇪"
-  },
-  {
-    "name": "Philippines",
-    "dial_code": "+63",
-    "code": "PH",
-    "emoji": "🇵🇭"
-  },
-  {
-    "name": "Pitcairn",
-    "dial_code": "+872",
-    "code": "PN",
-    "emoji": "🇵🇳"
-  },
-  {
-    "name": "Poland",
-    "dial_code": "+48",
-    "code": "PL",
-    "emoji": "🇵🇱"
-  },
-  {
-    "name": "Portugal",
-    "dial_code": "+351",
-    "code": "PT",
-    "emoji": "🇵🇹"
-  },
-  {
-    "name": "Puerto Rico",
-    "dial_code": "+1939",
-    "code": "PR",
-    "emoji": "🇵🇷"
-  },
-  {
-    "name": "Qatar",
-    "dial_code": "+974",
-    "code": "QA",
-    "emoji": "🇶🇦"
-  },
-  {
-    "name": "Romania",
-    "dial_code": "+40",
-    "code": "RO",
-    "emoji": "🇷🇴"
-  },
-  {
-    "name": "Russia",
-    "dial_code": "+7",
-    "code": "RU",
-    "emoji": "🇷🇺"
-  },
-  {
-    "name": "Rwanda",
-    "dial_code": "+250",
-    "code": "RW",
-    "emoji": "🇷🇼"
-  },
-  {
-    "name": "Reunion",
-    "dial_code": "+262",
-    "code": "RE",
-    "emoji": "🇷🇪"
-  },
-  {
-    "name": "Saint Barthelemy",
-    "dial_code": "+590",
-    "code": "BL",
-    "emoji": "🇧🇱"
-  },
-  {
-    "name": "Saint Helena, Ascension and Tristan Da Cunha",
-    "dial_code": "+290",
-    "code": "SH",
-    "emoji": "🇸🇭"
-  },
-  {
-    "name": "Saint Kitts and Nevis",
-    "dial_code": "+1869",
-    "code": "KN",
-    "emoji": "🇰🇳"
-  },
-  {
-    "name": "Saint Lucia",
-    "dial_code": "+1758",
-    "code": "LC",
-    "emoji": "🇱🇨"
-  },
-  {
-    "name": "Saint Martin",
-    "dial_code": "+590",
-    "code": "MF",
-    "emoji": "🇲🇫"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "dial_code": "+508",
-    "code": "PM",
-    "emoji": "🇵🇲"
-  },
-  {
-    "name": "Saint Vincent and the Grenadines",
-    "dial_code": "+1784",
-    "code": "VC",
-    "emoji": "🇻🇨"
-  },
-  {
-    "name": "Samoa",
-    "dial_code": "+685",
-    "code": "WS",
-    "emoji": "🇼🇸"
-  },
-  {
-    "name": "San Marino",
-    "dial_code": "+378",
-    "code": "SM",
-    "emoji": "🇸🇲"
-  },
-  {
-    "name": "Sao Tome and Principe",
-    "dial_code": "+239",
-    "code": "ST",
-    "emoji": "🇸🇹"
-  },
-  {
-    "name": "Saudi Arabia",
-    "dial_code": "+966",
-    "code": "SA",
-    "emoji": "🇸🇩"
-  },
-  {
-    "name": "Senegal",
-    "dial_code": "+221",
-    "code": "SN",
-    "emoji": "🇸🇳"
-  },
-  {
-    "name": "Serbia",
-    "dial_code": "+381",
-    "code": "RS",
-    "emoji": "🇷🇸"
-  },
-  {
-    "name": "Seychelles",
-    "dial_code": "+248",
-    "code": "SC",
-    "emoji": "🇸🇨"
-  },
-  {
-    "name": "Sierra Leone",
-    "dial_code": "+232",
-    "code": "SL",
-    "emoji": "🇸🇱"
-  },
-  {
-    "name": "Singapore",
-    "dial_code": "+65",
-    "code": "SG",
-    "emoji": "🇸🇬"
-  },
-  {
-    "name": "Slovakia",
-    "dial_code": "+421",
-    "code": "SK",
-    "emoji": "🇸🇰"
-  },
-  {
-    "name": "Slovenia",
-    "dial_code": "+386",
-    "code": "SI",
-    "emoji": "🇸🇮"
-  },
-  {
-    "name": "Solomon Islands",
-    "dial_code": "+677",
-    "code": "SB",
-    "emoji": "🇸🇧"
-  },
-  {
-    "name": "Somalia",
-    "dial_code": "+252",
-    "code": "SO",
-    "emoji": "🇸🇴"
-  },
-  {
-    "name": "South Africa",
-    "dial_code": "+27",
-    "code": "ZA",
-    "emoji": "🇿🇦"
-  },
-  {
-    "name": "South Sudan",
-    "dial_code": "+211",
-    "code": "SS",
-    "emoji": "🇸🇸"
-  },
-  {
-    "name": "South Georgia and the South Sandwich Islands",
-    "dial_code": "+500",
-    "code": "GS",
-    "emoji": "🇬🇸"
-  },
-  {
-    "name": "Spain",
-    "dial_code": "+34",
-    "code": "ES",
-    "emoji": "🇪🇸"
-  },
-  {
-    "name": "Sri Lanka",
-    "dial_code": "+94",
-    "code": "LK",
-    "emoji": "🇱🇰"
-  },
-  {
-    "name": "Sudan",
-    "dial_code": "+249",
-    "code": "SD",
-    "emoji": "🇸🇩"
-  },
-  {
-    "name": "Suriname",
-    "dial_code": "+597",
-    "code": "SR",
-    "emoji": "🇸🇷"
-  },
-  {
-    "name": "Svalbard and Jan Mayen",
-    "dial_code": "+47",
-    "code": "SJ",
-    "emoji": "🇸🇯"
-  },
-  {
-    "name": "Swaziland",
-    "dial_code": "+268",
-    "code": "SZ",
-    "emoji": "🇸🇿"
-  },
-  {
-    "name": "Sweden",
-    "dial_code": "+46",
-    "code": "SE",
-    "emoji": "🇸🇪"
-  },
-  {
-    "name": "Switzerland",
-    "dial_code": "+41",
-    "code": "CH",
-    "emoji": "🇨🇭"
-  },
-  {
-    "name": "Syrian Arab Republic",
-    "dial_code": "+963",
-    "code": "SY",
-    "emoji": "🇸🇾"
-  },
-  {
-    "name": "Taiwan",
-    "dial_code": "+886",
-    "code": "TW",
-    "emoji": "🇹🇼"
-  },
-  {
-    "name": "Tajikistan",
-    "dial_code": "+992",
-    "code": "TJ",
-    "emoji": "🇹🇯"
-  },
-  {
-    "name": "Tanzania, United Republic of Tanzania",
-    "dial_code": "+255",
-    "code": "TZ",
-    "emoji": "🇹🇿"
-  },
-  {
-    "name": "Thailand",
-    "dial_code": "+66",
-    "code": "TH",
-    "emoji": "🇹🇭"
-  },
-  {
-    "name": "Timor-Leste",
-    "dial_code": "+670",
-    "code": "TL",
-    "emoji": "🇹🇱"
-  },
-  {
-    "name": "Togo",
-    "dial_code": "+228",
-    "code": "TG",
-    "emoji": "🇹🇬"
-  },
-  {
-    "name": "Tokelau",
-    "dial_code": "+690",
-    "code": "TK",
-    "emoji": "🇹🇰"
-  },
-  {
-    "name": "Tonga",
-    "dial_code": "+676",
-    "code": "TO",
-    "emoji": "🇹🇴"
-  },
-  {
-    "name": "Trinidad and Tobago",
-    "dial_code": "+1868",
-    "code": "TT",
-    "emoji": "🇹🇹"
-  },
-  {
-    "name": "Tunisia",
-    "dial_code": "+216",
-    "code": "TN",
-    "emoji": "🇹🇳"
-  },
-  {
-    "name": "Turkey",
-    "dial_code": "+90",
-    "code": "TR",
-    "emoji": "🇹🇷"
-  },
-  {
-    "name": "Turkmenistan",
-    "dial_code": "+993",
-    "code": "TM",
-    "emoji": "🇹🇲"
-  },
-  {
-    "name": "Turks and Caicos Islands",
-    "dial_code": "+1649",
-    "code": "TC",
-    "emoji": "🇹🇨"
-  },
-  {
-    "name": "Tuvalu",
-    "dial_code": "+688",
-    "code": "TV",
-    "emoji": "🇹🇻"
-  },
-  {
-    "name": "Uganda",
-    "dial_code": "+256",
-    "code": "UG",
-    "emoji": "🇺🇬"
-  },
-  {
-    "name": "Ukraine",
-    "dial_code": "+380",
-    "code": "UA",
-    "emoji": "🇺🇦"
-  },
-  {
-    "name": "United Arab Emirates",
-    "dial_code": "+971",
-    "code": "AE",
-    "emoji": "🇦🇪"
-  },
-  {
-    "name": "United Kingdom",
-    "dial_code": "+44",
-    "code": "GB",
-    "emoji": "🇬🇧"
-  },
-  {
-    "name": "United States",
-    "dial_code": "+1",
-    "code": "US",
-    "emoji": "🇺🇸"
-  },
-  {
-    "name": "Uruguay",
-    "dial_code": "+598",
-    "code": "UY",
-    "emoji": "🇺🇾"
-  },
-  {
-    "name": "Uzbekistan",
-    "dial_code": "+998",
-    "code": "UZ",
-    "emoji": "🇺🇿"
-  },
-  {
-    "name": "Vanuatu",
-    "dial_code": "+678",
-    "code": "VU",
-    "emoji": "🇻🇺"
-  },
-  {
-    "name": "Venezuela, Bolivarian Republic of Venezuela",
-    "dial_code": "+58",
-    "code": "VE",
-    "emoji": "🇻🇪"
-  },
-  {
-    "name": "Vietnam",
-    "dial_code": "+84",
-    "code": "VN",
-    "emoji": "🇻🇳"
-  },
-  {
-    "name": "Virgin Islands, British",
-    "dial_code": "+1284",
-    "code": "VG",
-    "emoji": "🇻🇬"
-  },
-  {
-    "name": "Virgin Islands, U.S.",
-    "dial_code": "+1340",
-    "code": "VI",
-    "emoji": "🇻🇮"
-  },
-  {
-    "name": "Wallis and Futuna",
-    "dial_code": "+681",
-    "code": "WF",
-    "emoji": "🇼🇫"
-  },
-  {
-    "name": "Yemen",
-    "dial_code": "+967",
-    "code": "YE",
-    "emoji": "🇾🇪"
-  },
-  {
-    "name": "Zambia",
-    "dial_code": "+260",
-    "code": "ZM",
-    "emoji": "🇿🇲"
-  },
-  {
-    "name": "Zimbabwe",
-    "dial_code": "+263",
-    "code": "ZW",
-    "emoji": "🇿🇼"
-  }
-]
+{
+    "Afghanistan": {
+        "dial_code": "+93",
+        "country_code": "AF",
+        "emoji": "🇦🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/af.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Aland Islands": {
+        "dial_code": "+358",
+        "country_code": "AX",
+        "emoji": "🇦🇽",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ax.png",
+        "flag_colors": [
+            "Blue",
+            "Gold",
+            "Red"
+        ]
+    },
+    "Albania": {
+        "dial_code": "+355",
+        "country_code": "AL",
+        "emoji": "🇦🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/al.png",
+        "flag_colors": [
+            "Red",
+            "Black"
+        ]
+    },
+    "Algeria": {
+        "dial_code": "+213",
+        "country_code": "DZ",
+        "emoji": "🇩🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/dz.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "American Samoa": {
+        "dial_code": "+1684",
+        "country_code": "AS",
+        "emoji": "🇦🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/as.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Andorra": {
+        "dial_code": "+376",
+        "country_code": "AD",
+        "emoji": "🇦🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ad.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Angola": {
+        "dial_code": "+244",
+        "country_code": "AO",
+        "emoji": "🇦🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ao.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Yellow"
+        ]
+    },
+    "Anguilla": {
+        "dial_code": "+1264",
+        "country_code": "AI",
+        "emoji": "🇦🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ai.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Antarctica": {
+        "dial_code": "+672",
+        "country_code": "AQ",
+        "emoji": "🇦🇶",
+        "image_url": "https://countryflagsapi.com/png/aq",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Antigua And Barbuda": {
+        "dial_code": "+1268",
+        "country_code": "AG",
+        "emoji": "🇦🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ag.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Argentina": {
+        "dial_code": "+54",
+        "country_code": "AR",
+        "emoji": "🇦🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ar.png",
+        "flag_colors": [
+            "Light",
+            "Blue",
+            "White"
+        ]
+    },
+    "Armenia": {
+        "dial_code": "+374",
+        "country_code": "AM",
+        "emoji": "🇦🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/am.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "Orange"
+        ]
+    },
+    "Aruba": {
+        "dial_code": "+297",
+        "country_code": "AW",
+        "emoji": "🇦🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/aw.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Australia": {
+        "dial_code": "+61",
+        "country_code": "AU",
+        "emoji": "🇦🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/au.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Austria": {
+        "dial_code": "+43",
+        "country_code": "AT",
+        "emoji": "🇦🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/at.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Azerbaijan": {
+        "dial_code": "+994",
+        "country_code": "AZ",
+        "emoji": "🇦🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/az.png",
+        "flag_colors": [
+            "Light",
+            "Blue",
+            "Green",
+            "Red"
+        ]
+    },
+    "Bahamas": {
+        "dial_code": "+1242",
+        "country_code": "BS",
+        "emoji": "🇧🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bs.png",
+        "flag_colors": [
+            "Black",
+            "Aquamarine",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "Bahrain": {
+        "dial_code": "+973",
+        "country_code": "BH",
+        "emoji": "🇧🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bh.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Bangladesh": {
+        "dial_code": "+880",
+        "country_code": "BD",
+        "emoji": "🇧🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bd.png",
+        "flag_colors": [
+            "Red",
+            "Green"
+        ]
+    },
+    "Barbados": {
+        "dial_code": "+1246",
+        "country_code": "BB",
+        "emoji": "🇧🇧",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bb.png",
+        "flag_colors": [
+            "Blue",
+            "Black",
+            "Gold"
+        ]
+    },
+    "Belarus": {
+        "dial_code": "+375",
+        "country_code": "BY",
+        "emoji": "🇧🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/by.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Belgium": {
+        "dial_code": "+32",
+        "country_code": "BE",
+        "emoji": "🇧🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/be.png",
+        "flag_colors": [
+            "Black",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Belize": {
+        "dial_code": "+501",
+        "country_code": "BZ",
+        "emoji": "🇧🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bz.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Benin": {
+        "dial_code": "+229",
+        "country_code": "BJ",
+        "emoji": "🇧🇯",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bj.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Bermuda": {
+        "dial_code": "+1441",
+        "country_code": "BM",
+        "emoji": "🇧🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bm.png",
+        "flag_colors": [
+            "Red"
+        ]
+    },
+    "Bhutan": {
+        "dial_code": "+975",
+        "country_code": "BT",
+        "emoji": "🇧🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bt.png",
+        "flag_colors": [
+            "Fulvous",
+            "Gold",
+            "White"
+        ]
+    },
+    "Bolivia": {
+        "dial_code": "+591",
+        "country_code": "BO",
+        "emoji": "🇧🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bo.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Bosnia And Herzegovina": {
+        "dial_code": "+387",
+        "country_code": "BA",
+        "emoji": "🇧🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ba.png",
+        "flag_colors": [
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Botswana": {
+        "dial_code": "+267",
+        "country_code": "BW",
+        "emoji": "🇧🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bw.png",
+        "flag_colors": [
+            "Light",
+            "Blue",
+            "Black",
+            "White"
+        ]
+    },
+    "Brazil": {
+        "dial_code": "+55",
+        "country_code": "BR",
+        "emoji": "🇧🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/br.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Gold"
+        ]
+    },
+    "British Indian Ocean Territory": {
+        "dial_code": "+246",
+        "country_code": "IO",
+        "emoji": "🇮🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/io.png",
+        "flag_colors": []
+    },
+    "Brunei Darussalam": {
+        "dial_code": "+673",
+        "country_code": "BN",
+        "emoji": "🇧🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bn.png",
+        "flag_colors": [
+            "Yellow",
+            "Black",
+            "Red",
+            "White"
+        ]
+    },
+    "Bulgaria": {
+        "dial_code": "+359",
+        "country_code": "BG",
+        "emoji": "🇧🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bg.png",
+        "flag_colors": [
+            "White",
+            "Green",
+            "Red"
+        ]
+    },
+    "Burkina Faso": {
+        "dial_code": "+226",
+        "country_code": "BF",
+        "emoji": "🇧🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bf.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Burundi": {
+        "dial_code": "+257",
+        "country_code": "BI",
+        "emoji": "🇧🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bi.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Cambodia": {
+        "dial_code": "+855",
+        "country_code": "KH",
+        "emoji": "🇰🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kh.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Cameroon": {
+        "dial_code": "+237",
+        "country_code": "CM",
+        "emoji": "🇨🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cm.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Canada": {
+        "dial_code": "+1",
+        "country_code": "CA",
+        "emoji": "🇨🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ca.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Cabo Verde": {
+        "dial_code": "+238",
+        "country_code": "CV",
+        "emoji": "🇨🇻",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cv.png",
+        "flag_colors": [
+            "Blue",
+            "Gold",
+            "Red",
+            "White"
+        ]
+    },
+    "Cayman Islands": {
+        "dial_code": "+ 345",
+        "country_code": "KY",
+        "emoji": "🇰🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ky.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Central African Republic": {
+        "dial_code": "+236",
+        "country_code": "CF",
+        "emoji": "🇨🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cf.png",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Chad": {
+        "dial_code": "+235",
+        "country_code": "TD",
+        "emoji": "🇹🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/td.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Chile": {
+        "dial_code": "+56",
+        "country_code": "CL",
+        "emoji": "🇨🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cl.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "China": {
+        "dial_code": "+86",
+        "country_code": "CN",
+        "emoji": "🇨🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cn.png",
+        "flag_colors": [
+            "Red",
+            "Gold"
+        ]
+    },
+    "Christmas Island": {
+        "dial_code": "+61",
+        "country_code": "CX",
+        "emoji": "🇨🇽",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cx.png",
+        "flag_colors": [
+            "Blue",
+            "Green"
+        ]
+    },
+    "Cocos Islands": {
+        "dial_code": "+61",
+        "country_code": "CC",
+        "emoji": "🇨🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cc.png",
+        "flag_colors": [
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Colombia": {
+        "dial_code": "+57",
+        "country_code": "CO",
+        "emoji": "🇨🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/co.png",
+        "flag_colors": [
+            "Yellow",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Comoros": {
+        "dial_code": "+269",
+        "country_code": "KM",
+        "emoji": "🇰🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/km.png",
+        "flag_colors": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Congo": {
+        "dial_code": "+242",
+        "country_code": "CG",
+        "emoji": "🇨🇬",
+        "image_url": "https://countryflagsapi.com/png/cg",
+        "flag_colors": [
+            "Red",
+            "Gold",
+            "Green"
+        ]
+    },
+    "Democratic Republic Of The Congo": {
+        "dial_code": "+243",
+        "country_code": "CD",
+        "emoji": "🇨🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cd.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Cook Islands": {
+        "dial_code": "+682",
+        "country_code": "CK",
+        "emoji": "🇨🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ck.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Costa Rica": {
+        "dial_code": "+506",
+        "country_code": "CR",
+        "emoji": "🇨🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cr.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Cote DIvoire": {
+        "dial_code": "+225",
+        "country_code": "CI",
+        "emoji": "🇨🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ci.png",
+        "flag_colors": [
+            "Orange",
+            "Green",
+            "White"
+        ]
+    },
+    "Croatia": {
+        "dial_code": "+385",
+        "country_code": "HR",
+        "emoji": "🇭🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/hr.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Cuba": {
+        "dial_code": "+53",
+        "country_code": "CU",
+        "emoji": "🇨🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cu.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Curacao": {
+        "dial_code": "+599",
+        "country_code": "CW",
+        "emoji": "🇨🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cw.png",
+        "flag_colors": [
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Cyprus": {
+        "dial_code": "+357",
+        "country_code": "CY",
+        "emoji": "🇨🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cy.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Czech Republic": {
+        "dial_code": "+420",
+        "country_code": "CZ",
+        "emoji": "🇨🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/cz.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Denmark": {
+        "dial_code": "+45",
+        "country_code": "DK",
+        "emoji": "🇩🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/dk.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Djibouti": {
+        "dial_code": "+253",
+        "country_code": "DJ",
+        "emoji": "🇩🇯",
+        "image_url": "https://www.flagpictures.com/static/images/flags/dj.png",
+        "flag_colors": [
+            "Light",
+            "Blue",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Dominica": {
+        "dial_code": "+1767",
+        "country_code": "DM",
+        "emoji": "🇩🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/dm.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Dominican Republic": {
+        "dial_code": "+1849",
+        "country_code": "DO",
+        "emoji": "🇩🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/do.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Ecuador": {
+        "dial_code": "+593",
+        "country_code": "EC",
+        "emoji": "🇪🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ec.png",
+        "flag_colors": [
+            "Yellow",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Egypt": {
+        "dial_code": "+20",
+        "country_code": "EG",
+        "emoji": "🇪🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/eg.png",
+        "flag_colors": [
+            "Black",
+            "Gold",
+            "Red",
+            "White"
+        ]
+    },
+    "El Salvador": {
+        "dial_code": "+503",
+        "country_code": "SV",
+        "emoji": "🇸🇻",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sv.png",
+        "flag_colors": [
+            "Blue",
+            "Gold",
+            "White"
+        ]
+    },
+    "Equatorial Guinea": {
+        "dial_code": "+240",
+        "country_code": "GQ",
+        "emoji": "🇬🇶",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gq.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Eritrea": {
+        "dial_code": "+291",
+        "country_code": "ER",
+        "emoji": "🇪🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/er.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Estonia": {
+        "dial_code": "+372",
+        "country_code": "EE",
+        "emoji": "🇪🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ee.png",
+        "flag_colors": [
+            "Blue",
+            "Black",
+            "White"
+        ]
+    },
+    "Eswatini": {
+        "dial_code": "+268",
+        "country_code": "SZ",
+        "emoji": "🇸🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sz.png",
+        "flag_colors": [
+            "Black",
+            "Blue",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Ethiopia": {
+        "dial_code": "+251",
+        "country_code": "ET",
+        "emoji": "🇪🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/et.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Falkland Islands": {
+        "dial_code": "+500",
+        "country_code": "FK",
+        "emoji": "🇫🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fk.png",
+        "flag_colors": []
+    },
+    "Faroe Islands": {
+        "dial_code": "+298",
+        "country_code": "FO",
+        "emoji": "🇫🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fo.png",
+        "flag_colors": []
+    },
+    "Fiji": {
+        "dial_code": "+679",
+        "country_code": "FJ",
+        "emoji": "🇫🇯",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fj.png",
+        "flag_colors": [
+            "Dark",
+            "Blue",
+            "Gold",
+            "Light",
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Finland": {
+        "dial_code": "+358",
+        "country_code": "FI",
+        "emoji": "🇫🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fi.png",
+        "flag_colors": [
+            "White",
+            "Blue"
+        ]
+    },
+    "France": {
+        "dial_code": "+33",
+        "country_code": "FR",
+        "emoji": "🇫🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fr.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "French Guiana": {
+        "dial_code": "+594",
+        "country_code": "GF",
+        "emoji": "🇬🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gf.png",
+        "flag_colors": [
+            "Green",
+            "Yellow"
+        ]
+    },
+    "French Polynesia": {
+        "dial_code": "+689",
+        "country_code": "PF",
+        "emoji": "🇵🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pf.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "Golden",
+            "White"
+        ]
+    },
+    "Gabon": {
+        "dial_code": "+241",
+        "country_code": "GA",
+        "emoji": "🇬🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ga.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "Gambia": {
+        "dial_code": "+220",
+        "country_code": "GM",
+        "emoji": "🇬🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gm.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "Green",
+            "White"
+        ]
+    },
+    "Georgia": {
+        "dial_code": "+995",
+        "country_code": "GE",
+        "emoji": "🇬🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ge.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Germany": {
+        "dial_code": "+49",
+        "country_code": "DE",
+        "emoji": "🇩🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/de.png",
+        "flag_colors": [
+            "Black",
+            "Gold",
+            "Red"
+        ]
+    },
+    "Ghana": {
+        "dial_code": "+233",
+        "country_code": "GH",
+        "emoji": "🇬🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gh.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Gibraltar": {
+        "dial_code": "+350",
+        "country_code": "GI",
+        "emoji": "🇬🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gi.png",
+        "flag_colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "Greece": {
+        "dial_code": "+30",
+        "country_code": "GR",
+        "emoji": "🇬🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gr.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Greenland": {
+        "dial_code": "+299",
+        "country_code": "GL",
+        "emoji": "🇬🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gl.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Grenada": {
+        "dial_code": "+1473",
+        "country_code": "GD",
+        "emoji": "🇬🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gd.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Guadeloupe": {
+        "dial_code": "+590",
+        "country_code": "GP",
+        "emoji": "🇬🇵",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gp.png",
+        "flag_colors": [
+            "Black",
+            "Yellow",
+            "Blue"
+        ]
+    },
+    "Guam": {
+        "dial_code": "+1671",
+        "country_code": "GU",
+        "emoji": "🇬🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gu.png",
+        "flag_colors": [
+            "Blue",
+            "Red"
+        ]
+    },
+    "Guatemala": {
+        "dial_code": "+502",
+        "country_code": "GT",
+        "emoji": "🇬🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gt.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Guernsey": {
+        "dial_code": "+44",
+        "country_code": "GG",
+        "emoji": "🇬🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gg.png",
+        "flag_colors": [
+            "White",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Guinea": {
+        "dial_code": "+224",
+        "country_code": "GN",
+        "emoji": "🇬🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gq.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Guinea-Bissau": {
+        "dial_code": "+245",
+        "country_code": "GW",
+        "emoji": "🇬🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gw.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Guyana": {
+        "dial_code": "+595",
+        "country_code": "GY",
+        "emoji": "🇬🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gy.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Haiti": {
+        "dial_code": "+509",
+        "country_code": "HT",
+        "emoji": "🇭🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ht.png",
+        "flag_colors": [
+            "Blue",
+            "Red"
+        ]
+    },
+    "Holy See (Vatican City State)": {
+        "dial_code": "+379",
+        "country_code": "VA",
+        "emoji": "🇻🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/va.png",
+        "flag_colors": [
+            "Yellow",
+            "White"
+        ]
+    },
+    "Honduras": {
+        "dial_code": "+504",
+        "country_code": "HN",
+        "emoji": "🇭🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/hn.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Hong Kong": {
+        "dial_code": "+852",
+        "country_code": "HK",
+        "emoji": "🇭🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/hk.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Hungary": {
+        "dial_code": "+36",
+        "country_code": "HU",
+        "emoji": "🇭🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/hu.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Iceland": {
+        "dial_code": "+354",
+        "country_code": "IS",
+        "emoji": "🇮🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/is.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "India": {
+        "dial_code": "+91",
+        "country_code": "IN",
+        "emoji": "🇮🇳",
+        "image_url": "https://countryflagsapi.com/png/in",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Gold",
+            "White"
+        ]
+    },
+    "Indonesia": {
+        "dial_code": "+62",
+        "country_code": "ID",
+        "emoji": "🇮🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/id.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Iran": {
+        "dial_code": "+98",
+        "country_code": "IR",
+        "emoji": "🇮🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ir.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Iraq": {
+        "dial_code": "+964",
+        "country_code": "IQ",
+        "emoji": "🇮🇶",
+        "image_url": "https://www.flagpictures.com/static/images/flags/iq.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "Ireland": {
+        "dial_code": "+353",
+        "country_code": "IE",
+        "emoji": "🇮🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ie.png",
+        "flag_colors": [
+            "Green",
+            "Or",
+            "Blue"
+        ]
+    },
+    "Isle Of Man": {
+        "dial_code": "+44",
+        "country_code": "IM",
+        "emoji": "🇮🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/im.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Israel": {
+        "dial_code": "+972",
+        "country_code": "IL",
+        "emoji": "🇮🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/il.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Italy": {
+        "dial_code": "+39",
+        "country_code": "IT",
+        "emoji": "🇮🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/it.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Jamaica": {
+        "dial_code": "+1876",
+        "country_code": "JM",
+        "emoji": "🇯🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/jm.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Gold"
+        ]
+    },
+    "Japan": {
+        "dial_code": "+81",
+        "country_code": "JP",
+        "emoji": "🇯🇵",
+        "image_url": "https://www.flagpictures.com/static/images/flags/jp.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Jersey": {
+        "dial_code": "+44",
+        "country_code": "JE",
+        "emoji": "🇯🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/je.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Jordan": {
+        "dial_code": "+962",
+        "country_code": "JO",
+        "emoji": "🇯🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/jo.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Kazakhstan": {
+        "dial_code": "+77",
+        "country_code": "KZ",
+        "emoji": "🇰🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kz.png",
+        "flag_colors": [
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "Kenya": {
+        "dial_code": "+254",
+        "country_code": "KE",
+        "emoji": "🇰🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ke.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Kiribati": {
+        "dial_code": "+686",
+        "country_code": "KI",
+        "emoji": "🇰🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ki.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "Gold",
+            "White"
+        ]
+    },
+    "North Korea": {
+        "dial_code": "+850",
+        "country_code": "KP",
+        "emoji": "🇰🇵",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kp.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "South Korea": {
+        "dial_code": "+82",
+        "country_code": "KR",
+        "emoji": "🇰🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kr.png",
+        "flag_colors": [
+            "White",
+            "Black",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Kuwait": {
+        "dial_code": "+965",
+        "country_code": "KW",
+        "emoji": "🇰🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kw.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Red",
+            "White"
+        ]
+    },
+    "Kyrgyzstan": {
+        "dial_code": "+996",
+        "country_code": "KG",
+        "emoji": "🇰🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kg.png",
+        "flag_colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Laos": {
+        "dial_code": "+856",
+        "country_code": "LA",
+        "emoji": "🇱🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/la.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Latvia": {
+        "dial_code": "+371",
+        "country_code": "LV",
+        "emoji": "🇱🇻",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lv.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Lebanon": {
+        "dial_code": "+961",
+        "country_code": "LB",
+        "emoji": "🇱🇧",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lb.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Lesotho": {
+        "dial_code": "+266",
+        "country_code": "LS",
+        "emoji": "🇱🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ls.png",
+        "flag_colors": [
+            "Blue",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "Liberia": {
+        "dial_code": "+231",
+        "country_code": "LR",
+        "emoji": "🇱🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lr.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Libya": {
+        "dial_code": "+218",
+        "country_code": "LY",
+        "emoji": "🇱🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ly.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "Liechtenstein": {
+        "dial_code": "+423",
+        "country_code": "LI",
+        "emoji": "🇱🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/li.png",
+        "flag_colors": [
+            "Blue",
+            "Red"
+        ]
+    },
+    "Lithuania": {
+        "dial_code": "+370",
+        "country_code": "LT",
+        "emoji": "🇱🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lt.png",
+        "flag_colors": [
+            "Yellow",
+            "Green",
+            "Red"
+        ]
+    },
+    "Luxembourg": {
+        "dial_code": "+352",
+        "country_code": "LU",
+        "emoji": "🇱🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lu.png",
+        "flag_colors": [
+            "Red",
+            "Light",
+            "Blue",
+            "White"
+        ]
+    },
+    "Macao": {
+        "dial_code": "+853",
+        "country_code": "MO",
+        "emoji": "🇲🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mo.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Macedonia": {
+        "dial_code": "+389",
+        "country_code": "MK",
+        "emoji": "🇲🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mk.png",
+        "flag_colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Madagascar": {
+        "dial_code": "+261",
+        "country_code": "MG",
+        "emoji": "🇲🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mg.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Malawi": {
+        "dial_code": "+265",
+        "country_code": "MW",
+        "emoji": "🇲🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mw.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red"
+        ]
+    },
+    "Malaysia": {
+        "dial_code": "+60",
+        "country_code": "MY",
+        "emoji": "🇲🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/my.png",
+        "flag_colors": [
+            "Red",
+            "Dark",
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Maldives": {
+        "dial_code": "+960",
+        "country_code": "MV",
+        "emoji": "🇲🇻",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mv.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Mali": {
+        "dial_code": "+223",
+        "country_code": "ML",
+        "emoji": "🇲🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ml.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Malta": {
+        "dial_code": "+356",
+        "country_code": "MT",
+        "emoji": "🇲🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mt.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Marshall Islands": {
+        "dial_code": "+692",
+        "country_code": "MH",
+        "emoji": "🇲🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mh.png",
+        "flag_colors": [
+            "Blue",
+            "Orange",
+            "White"
+        ]
+    },
+    "Martinique": {
+        "dial_code": "+596",
+        "country_code": "MQ",
+        "emoji": "🇲🇶",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mq.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Mauritania": {
+        "dial_code": "+222",
+        "country_code": "MR",
+        "emoji": "🇲🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mr.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Mauritius": {
+        "dial_code": "+230",
+        "country_code": "MU",
+        "emoji": "🇲🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mu.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Mayotte": {
+        "dial_code": "+262",
+        "country_code": "YT",
+        "emoji": "🇾🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/yt.png",
+        "flag_colors": []
+    },
+    "Mexico": {
+        "dial_code": "+52",
+        "country_code": "MX",
+        "emoji": "🇲🇽",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mx.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Micronesia": {
+        "dial_code": "+691",
+        "country_code": "FM",
+        "emoji": "🇫🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/fm.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Moldova": {
+        "dial_code": "+373",
+        "country_code": "MD",
+        "emoji": "🇲🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/md.png",
+        "flag_colors": [
+            "Blue",
+            "Gold",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Monaco": {
+        "dial_code": "+377",
+        "country_code": "MC",
+        "emoji": "🇲🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mc.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Mongolia": {
+        "dial_code": "+976",
+        "country_code": "MN",
+        "emoji": "🇲🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mn.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Montenegro": {
+        "dial_code": "+382",
+        "country_code": "ME",
+        "emoji": "🇲🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/me.png",
+        "flag_colors": [
+            "Red",
+            "Gold"
+        ]
+    },
+    "Montserrat": {
+        "dial_code": "+1664",
+        "country_code": "MS",
+        "emoji": "🇲🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ms.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Morocco": {
+        "dial_code": "+212",
+        "country_code": "MA",
+        "emoji": "🇲🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ma.png",
+        "flag_colors": [
+            "Red",
+            "Green"
+        ]
+    },
+    "Mozambique": {
+        "dial_code": "+258",
+        "country_code": "MZ",
+        "emoji": "🇲🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mz.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Myanmar": {
+        "dial_code": "+95",
+        "country_code": "MM",
+        "emoji": "🇲🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mm.png",
+        "flag_colors": [
+            "Yellow",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Namibia": {
+        "dial_code": "+264",
+        "country_code": "NA",
+        "emoji": "🇳🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/na.png",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Nauru": {
+        "dial_code": "+674",
+        "country_code": "NR",
+        "emoji": "🇳🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nr.png",
+        "flag_colors": [
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Nepal": {
+        "dial_code": "+977",
+        "country_code": "NP",
+        "emoji": "🇳🇵",
+        "image_url": "https://www.flagpictures.com/static/images/flags/np.png",
+        "flag_colors": [
+            "Crimson",
+            "Blue",
+            "White"
+        ]
+    },
+    "Netherlands": {
+        "dial_code": "+31",
+        "country_code": "NL",
+        "emoji": "🇳🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nl.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Netherlands Antilles": {
+        "dial_code": "+599",
+        "country_code": "AN",
+        "emoji": "🇳🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nl.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "New Caledonia": {
+        "dial_code": "+687",
+        "country_code": "NC",
+        "emoji": "🇳🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nc.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Green"
+        ]
+    },
+    "New Zealand": {
+        "dial_code": "+64",
+        "country_code": "NZ",
+        "emoji": "🇳🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nz.png",
+        "flag_colors": [
+            "White",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Nicaragua": {
+        "dial_code": "+505",
+        "country_code": "NI",
+        "emoji": "🇳🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ni.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Niger": {
+        "dial_code": "+227",
+        "country_code": "NE",
+        "emoji": "🇳🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ne.png",
+        "flag_colors": [
+            "Orange",
+            "Green",
+            "White"
+        ]
+    },
+    "Nigeria": {
+        "dial_code": "+234",
+        "country_code": "NG",
+        "emoji": "🇳🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ng.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Niue": {
+        "dial_code": "+683",
+        "country_code": "NU",
+        "emoji": "🇳🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nu.png",
+        "flag_colors": [
+            "Gold"
+        ]
+    },
+    "Norfolk Island": {
+        "dial_code": "+672",
+        "country_code": "NF",
+        "emoji": "🇳🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/nf.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Northern Mariana Islands": {
+        "dial_code": "+1670",
+        "country_code": "MP",
+        "emoji": "🏳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mp.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Norway": {
+        "dial_code": "+47",
+        "country_code": "NO",
+        "emoji": "🇳🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/no.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Oman": {
+        "dial_code": "+968",
+        "country_code": "OM",
+        "emoji": "🇴🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/om.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Pakistan": {
+        "dial_code": "+92",
+        "country_code": "PK",
+        "emoji": "🇵🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pk.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Palau": {
+        "dial_code": "+680",
+        "country_code": "PW",
+        "emoji": "🇵🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pw.png",
+        "flag_colors": [
+            "Yellow",
+            "Blue"
+        ]
+    },
+    "Palestine": {
+        "dial_code": "+970",
+        "country_code": "PS",
+        "emoji": "🇵🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ps.png",
+        "flag_colors": [
+            "Black",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Panama": {
+        "dial_code": "+507",
+        "country_code": "PA",
+        "emoji": "🇵🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pa.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Papua New Guinea": {
+        "dial_code": "+675",
+        "country_code": "PG",
+        "emoji": "🇵🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pg.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Paraguay": {
+        "dial_code": "+595",
+        "country_code": "PY",
+        "emoji": "🇵🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/py.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Peru": {
+        "dial_code": "+51",
+        "country_code": "PE",
+        "emoji": "🇵🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pe.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Philippines": {
+        "dial_code": "+63",
+        "country_code": "PH",
+        "emoji": "🇵🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ph.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Pitcairn Island": {
+        "dial_code": "+872",
+        "country_code": "PN",
+        "emoji": "🇵🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pn.png",
+        "flag_colors": [
+            "Blue",
+            "Black",
+            "Brown",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Poland": {
+        "dial_code": "+48",
+        "country_code": "PL",
+        "emoji": "🇵🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pl.png",
+        "flag_colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "Portugal": {
+        "dial_code": "+351",
+        "country_code": "PT",
+        "emoji": "🇵🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pt.png",
+        "flag_colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "Puerto Rico": {
+        "dial_code": "+1939",
+        "country_code": "PR",
+        "emoji": "🇵🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pr.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "Qatar": {
+        "dial_code": "+974",
+        "country_code": "QA",
+        "emoji": "🇶🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/qa.png",
+        "flag_colors": [
+            "Maroon",
+            "White"
+        ]
+    },
+    "Romania": {
+        "dial_code": "+40",
+        "country_code": "RO",
+        "emoji": "🇷🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ro.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Russia": {
+        "dial_code": "+7",
+        "country_code": "RU",
+        "emoji": "🇷🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ru.png",
+        "flag_colors": [
+            "White",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Rwanda": {
+        "dial_code": "+250",
+        "country_code": "RW",
+        "emoji": "🇷🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/rw.png",
+        "flag_colors": [
+            "Sky",
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Reunion": {
+        "dial_code": "+262",
+        "country_code": "RE",
+        "emoji": "🇷🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/re.png",
+        "flag_colors": [
+            "Blue",
+            "Yellow",
+            "Red"
+        ]
+    },
+    "Saint Barthelemy": {
+        "dial_code": "+590",
+        "country_code": "BL",
+        "emoji": "🇧🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/bl.png",
+        "flag_colors": [
+            "White"
+        ]
+    },
+    "Saint Helena": {
+        "dial_code": "+290",
+        "country_code": "SH",
+        "emoji": "🇸🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sh.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Saint Kitts And Nevis": {
+        "dial_code": "+1869",
+        "country_code": "KN",
+        "emoji": "🇰🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/kn.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Saint Lucia": {
+        "dial_code": "+1758",
+        "country_code": "LC",
+        "emoji": "🇱🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lc.png",
+        "flag_colors": [
+            "Light",
+            "Blue",
+            "Black",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Saint Martin": {
+        "dial_code": "+590",
+        "country_code": "MF",
+        "emoji": "🇲🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/mf.png",
+        "flag_colors": [
+            "Blue",
+            "White",
+            "Red"
+        ]
+    },
+    "Saint Pierre And Miquelon": {
+        "dial_code": "+508",
+        "country_code": "PM",
+        "emoji": "🇵🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/pm.png",
+        "flag_colors": [
+            "Blue",
+            "Yellow",
+            "Red"
+        ]
+    },
+    "Saint Vincent And The Grenadines": {
+        "dial_code": "+1784",
+        "country_code": "VC",
+        "emoji": "🇻🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/vc.png",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Samoa": {
+        "dial_code": "+685",
+        "country_code": "WS",
+        "emoji": "🇼🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/as.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "San Marino": {
+        "dial_code": "+378",
+        "country_code": "SM",
+        "emoji": "🇸🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sm.png",
+        "flag_colors": [
+            "White",
+            "Light",
+            "Blue"
+        ]
+    },
+    "Sao Tome And Principe": {
+        "dial_code": "+239",
+        "country_code": "ST",
+        "emoji": "🇸🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/st.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Saudi Arabia": {
+        "dial_code": "+966",
+        "country_code": "SA",
+        "emoji": "🇸🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sa.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Senegal": {
+        "dial_code": "+221",
+        "country_code": "SN",
+        "emoji": "🇸🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sn.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Serbia": {
+        "dial_code": "+381",
+        "country_code": "RS",
+        "emoji": "🇷🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/rs.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Seychelles": {
+        "dial_code": "+248",
+        "country_code": "SC",
+        "emoji": "🇸🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sc.png",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Sierra Leone": {
+        "dial_code": "+232",
+        "country_code": "SL",
+        "emoji": "🇸🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sl.png",
+        "flag_colors": [
+            "Green",
+            "Blue",
+            "White"
+        ]
+    },
+    "Singapore": {
+        "dial_code": "+65",
+        "country_code": "SG",
+        "emoji": "🇸🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sg.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Slovakia": {
+        "dial_code": "+421",
+        "country_code": "SK",
+        "emoji": "🇸🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sk.png",
+        "flag_colors": [
+            "White",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Slovenia": {
+        "dial_code": "+386",
+        "country_code": "SI",
+        "emoji": "🇸🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/si.png",
+        "flag_colors": [
+            "Black",
+            "Blue",
+            "Gold",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Solomon Islands": {
+        "dial_code": "+677",
+        "country_code": "SB",
+        "emoji": "🇸🇧",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sb.png",
+        "flag_colors": [
+            "Olive",
+            "Green",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "Somalia": {
+        "dial_code": "+252",
+        "country_code": "SO",
+        "emoji": "🇸🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/so.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "South Africa": {
+        "dial_code": "+27",
+        "country_code": "ZA",
+        "emoji": "🇿🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/za.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Blue",
+            "Gold",
+            "Green",
+            "White"
+        ]
+    },
+    "South Sudan": {
+        "dial_code": "+211",
+        "country_code": "SS",
+        "emoji": "🇸🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ss.png",
+        "flag_colors": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "South Georgia And The South Sandwich Islands": {
+        "dial_code": "+500",
+        "country_code": "GS",
+        "emoji": "🇬🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gs.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Spain": {
+        "dial_code": "+34",
+        "country_code": "ES",
+        "emoji": "🇪🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/es.png",
+        "flag_colors": [
+            "Red",
+            "Gold"
+        ]
+    },
+    "Sri Lanka": {
+        "dial_code": "+94",
+        "country_code": "LK",
+        "emoji": "🇱🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/lk.png",
+        "flag_colors": [
+            "Maroon",
+            "Gold",
+            "Green",
+            "Orange"
+        ]
+    },
+    "Sudan": {
+        "dial_code": "+249",
+        "country_code": "SD",
+        "emoji": "🇸🇩",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ss.png",
+        "flag_colors": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Suriname": {
+        "dial_code": "+597",
+        "country_code": "SR",
+        "emoji": "🇸🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sr.png",
+        "flag_colors": [
+            "Gold",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Svalbard And Jan Mayen": {
+        "dial_code": "+47",
+        "country_code": "SJ",
+        "emoji": "🇸🇯",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sj.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Sweden": {
+        "dial_code": "+46",
+        "country_code": "SE",
+        "emoji": "🇸🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/se.png",
+        "flag_colors": [
+            "Blue",
+            "Gold"
+        ]
+    },
+    "Switzerland": {
+        "dial_code": "+41",
+        "country_code": "CH",
+        "emoji": "🇨🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ch.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Syrian Arab Republic": {
+        "dial_code": "+963",
+        "country_code": "SY",
+        "emoji": "🇸🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/sy.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "Taiwan": {
+        "dial_code": "+886",
+        "country_code": "TW",
+        "emoji": "🇹🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tw.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Tajikistan": {
+        "dial_code": "+992",
+        "country_code": "TJ",
+        "emoji": "🇹🇯",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tj.png",
+        "flag_colors": [
+            "Golden",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Tanzania": {
+        "dial_code": "+255",
+        "country_code": "TZ",
+        "emoji": "🇹🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tz.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "Thailand": {
+        "dial_code": "+66",
+        "country_code": "TH",
+        "emoji": "🇹🇭",
+        "image_url": "https://www.flagpictures.com/static/images/flags/th.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Timor-Leste": {
+        "dial_code": "+670",
+        "country_code": "TL",
+        "emoji": "🇹🇱",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tl.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Yellow",
+            "White"
+        ]
+    },
+    "Togo": {
+        "dial_code": "+228",
+        "country_code": "TG",
+        "emoji": "🇹🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tg.png",
+        "flag_colors": [
+            "Green",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Tokelau": {
+        "dial_code": "+690",
+        "country_code": "TK",
+        "emoji": "🇹🇰",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tk.png",
+        "flag_colors": [
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Tonga": {
+        "dial_code": "+676",
+        "country_code": "TO",
+        "emoji": "🇹🇴",
+        "image_url": "https://www.flagpictures.com/static/images/flags/to.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Trinidad And Tobago": {
+        "dial_code": "+1868",
+        "country_code": "TT",
+        "emoji": "🇹🇹",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tt.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "White"
+        ]
+    },
+    "Tunisia": {
+        "dial_code": "+216",
+        "country_code": "TN",
+        "emoji": "🇹🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tn.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Turkey": {
+        "dial_code": "+90",
+        "country_code": "TR",
+        "emoji": "🇹🇷",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tr.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Turkmenistan": {
+        "dial_code": "+993",
+        "country_code": "TM",
+        "emoji": "🇹🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tm.png",
+        "flag_colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "Turks And Caicos Islands": {
+        "dial_code": "+1649",
+        "country_code": "TC",
+        "emoji": "🇹🇨",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tc.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Tuvalu": {
+        "dial_code": "+688",
+        "country_code": "TV",
+        "emoji": "🇹🇻",
+        "image_url": "https://www.flagpictures.com/static/images/flags/tv.png",
+        "flag_colors": [
+            "Dark",
+            "Blue",
+            "Gold",
+            "Red",
+            "Sky",
+            "Blue",
+            "White"
+        ]
+    },
+    "Uganda": {
+        "dial_code": "+256",
+        "country_code": "UG",
+        "emoji": "🇺🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ug.png",
+        "flag_colors": [
+            "Blue",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    },
+    "Ukraine": {
+        "dial_code": "+380",
+        "country_code": "UA",
+        "emoji": "🇺🇦",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ua.png",
+        "flag_colors": [
+            "Blue",
+            "Gold"
+        ]
+    },
+    "United Arab Emirates": {
+        "dial_code": "+971",
+        "country_code": "AE",
+        "emoji": "🇦🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ae.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "United Kingdom": {
+        "dial_code": "+44",
+        "country_code": "GB",
+        "emoji": "🇬🇧",
+        "image_url": "https://www.flagpictures.com/static/images/flags/gb.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "United States": {
+        "dial_code": "+1",
+        "country_code": "US",
+        "emoji": "🇺🇸",
+        "image_url": "https://www.flagpictures.com/static/images/flags/us.png",
+        "flag_colors": [
+            "Red",
+            "Blue",
+            "White"
+        ]
+    },
+    "Uruguay": {
+        "dial_code": "+598",
+        "country_code": "UY",
+        "emoji": "🇺🇾",
+        "image_url": "https://www.flagpictures.com/static/images/flags/uy.png",
+        "flag_colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "Uzbekistan": {
+        "dial_code": "+998",
+        "country_code": "UZ",
+        "emoji": "🇺🇿",
+        "image_url": "https://www.flagpictures.com/static/images/flags/uz.png",
+        "flag_colors": [
+            "Blue",
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "Vanuatu": {
+        "dial_code": "+678",
+        "country_code": "VU",
+        "emoji": "🇻🇺",
+        "image_url": "https://www.flagpictures.com/static/images/flags/vu.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "Green",
+            "Yellow"
+        ]
+    },
+    "Venezuela": {
+        "dial_code": "+58",
+        "country_code": "VE",
+        "emoji": "🇻🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ve.png",
+        "flag_colors": [
+            "Yellow",
+            "Blue",
+            "Red"
+        ]
+    },
+    "Vietnam": {
+        "dial_code": "+84",
+        "country_code": "VN",
+        "emoji": "🇻🇳",
+        "image_url": "https://www.flagpictures.com/static/images/flags/vn.png",
+        "flag_colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "Virgin Islands, British": {
+        "dial_code": "+1284",
+        "country_code": "VG",
+        "emoji": "🇻🇬",
+        "image_url": "https://www.flagpictures.com/static/images/flags/vg.png",
+        "flag_colors": [
+            "Blue"
+        ]
+    },
+    "Virgin Islands, U.S.": {
+        "dial_code": "+1340",
+        "country_code": "VI",
+        "emoji": "🇻🇮",
+        "image_url": "https://www.flagpictures.com/static/images/flags/vi.png",
+        "flag_colors": [
+            "White",
+            "Gold"
+        ]
+    },
+    "Wallis And Futuna": {
+        "dial_code": "+681",
+        "country_code": "WF",
+        "emoji": "🇼🇫",
+        "image_url": "https://www.flagpictures.com/static/images/flags/wf.png",
+        "flag_colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "Yemen": {
+        "dial_code": "+967",
+        "country_code": "YE",
+        "emoji": "🇾🇪",
+        "image_url": "https://www.flagpictures.com/static/images/flags/ye.png",
+        "flag_colors": [
+            "Red",
+            "Black",
+            "White"
+        ]
+    },
+    "Zambia": {
+        "dial_code": "+260",
+        "country_code": "ZM",
+        "emoji": "🇿🇲",
+        "image_url": "https://www.flagpictures.com/static/images/flags/zm.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Orange",
+            "Red"
+        ]
+    },
+    "Zimbabwe": {
+        "dial_code": "+263",
+        "country_code": "ZW",
+        "emoji": "🇿🇼",
+        "image_url": "https://www.flagpictures.com/static/images/flags/zw.png",
+        "flag_colors": [
+            "Green",
+            "Black",
+            "Red",
+            "White",
+            "Yellow"
+        ]
+    }
+}
