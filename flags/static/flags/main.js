@@ -15,21 +15,25 @@ function filterByColor(color) {
         element.classList.add('hidden-flag');
       }
     }
+    console.log(selectedFlags)
 }
 
 function resetFilters(){
-    // 1. Uncheck the buttons
+    // 1. Empty selectedFlags array
+    selectedFlags = []
+    // 2. Uncheck the buttons
     const buttons = document.getElementsByClassName("btn-flag");
     for (let i = 0; i < buttons.length; i++) {
         let button = buttons[i]
         button.classList.remove('active-btn-flag');
     }
-    // 2. Show hidden flags
+    // 3. Show hidden flags
     const elements = document.getElementsByClassName("flag-row");
     for (let i = 0; i < elements.length; i++) {
       const element = elements[i];
         element.classList.remove('hidden-flag');
     }
+    console.log(selectedFlags)
 }
 
 function togglePropertyInList(property) {
