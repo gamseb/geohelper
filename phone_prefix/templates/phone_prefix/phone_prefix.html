@@ -1,15 +1,14 @@
 {% extends "home/base.html" %}
 {% block content %}
-    <table>
-
-{% for country in countries %}
+<table class="table table-sm table-striped">
+{% for key, value in countries.items %}
     <tr>
-        <th>{{ country.emoji }}</th>
-        <th>{{ country.name }}</th>
-        <th>{{ country.code }}</th>
-        <th>{{ country.dial_code }}</th>
+        <th>{{ value.emoji }}</th>
+        <th>{{ key }}</th>
+        <th>{{ value.dial_code }}</th>
+        <th>{{ value.country_code }}</th>
     </tr>
 {% endfor %}
+</table>
 {% endblock content %}
 
-</table>
