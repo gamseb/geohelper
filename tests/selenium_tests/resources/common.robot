@@ -8,7 +8,7 @@ ${BASE_URL}      localhost:8000
 *** Keywords ***
 Open Application
     [Arguments]    ${url}
-    Open Browser    ${url}    firefox
+    Open Browser    ${url}    firefox   service_log_path=/dev/null
 
 wait for the homepage to load
 	Wait Until Page Contains    Welcome to Geohelper
