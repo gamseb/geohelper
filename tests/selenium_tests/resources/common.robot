@@ -4,16 +4,28 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${BASE_URL}      localhost:8000
-#${valid_user}    testuser
-#${valid_password}    testpassword
 
 *** Keywords ***
 Open Application
     [Arguments]    ${url}
     Open Browser    ${url}    firefox
 
-Log In
-    [Arguments]    ${username}    ${password}
-    Input Text    id=username    ${username}
-    Input Text    id=password    ${password}
-    Click Button    xpath=//button[@type='submit']
+wait for homepage to load
+	Wait Until Page Contains    Welcome to Geohelper
+
+wait for flags page to load
+    Wait Until Page Contains Element    id=btn-flag-red
+
+select the ${color} button
+	Click Button    id=btn-flag-${color}
+
+check if the ${color} button is selected
+	Wait Until Page Contains Element    xpath=//button[@id="btn-flag-${color}" and contains(@class, "active-btn-flag")]
+
+check if the flag for ${country} is visible
+	# Case sensitivie
+	Wait Until Page Contains Element  xpath=//tr[not(contains(@class, "hidden-flag"))]/th[text()="${country}"]
+
+check if the flag for ${country} is not visible
+	# Case sensitive
+	Wait Until Page Contains Element  xpath=//tr[contains(@class, "hidden-flag")]/th[text()="${country}"]

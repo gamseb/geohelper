@@ -1,24 +1,11 @@
 *** Settings ***
 Resource    ../resources/common.robot
+Library    SeleniumLibrary
 
 *** Test Cases ***
 
 Open homepage
-    [Documentation]    Opens the homepage and checks if the server is responding
+    [Documentation]    Opens the homepage and checks if the page is loaded
     Open Application    ${BASE_URL}
-    Page Should Contain    Welcome to Geohelper
+    Wait For Homepage To Load
     Close Browser
-
-#Valid User Login
-#    [Documentation]    Tests a valid user login
-#    Open Application    ${BASE_URL}
-#    Log In    valid_user    valid_password
-#    Page Should Contain    Welcome, User!
-#    Close Browser
-#
-#Invalid User Login
-#    [Documentation]    Tests an invalid user login
-#    Open Application    ${BASE_URL}
-#    Log In    invalid_user    invalid_password
-#    Page Should Contain    Invalid credentials
-#    Close Browser
