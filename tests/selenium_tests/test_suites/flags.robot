@@ -7,7 +7,7 @@ Library    SeleniumLibrary
 Open Flags page
     [Documentation]    Opens the Flags page and checks if the page is loaded
     Open Application    ${BASE_URL}/flags
-    Wait For Flags Page To Load
+    Wait For The Flags Page To Load
     Close Browser
 
 Click button

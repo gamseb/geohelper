@@ -10,11 +10,14 @@ Open Application
     [Arguments]    ${url}
     Open Browser    ${url}    firefox
 
-wait for homepage to load
+wait for the homepage to load
 	Wait Until Page Contains    Welcome to Geohelper
 
-wait for flags page to load
+wait for the flags page to load
     Wait Until Page Contains Element    id=btn-flag-red
+
+wait for the phone prefix page to load
+	Wait Until Page Contains Element    xpath=//tr/th[text()="Afghanistan"]
 
 select the ${color} button
 	Click Button    id=btn-flag-${color}

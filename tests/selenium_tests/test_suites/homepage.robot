@@ -7,5 +7,5 @@ Library    SeleniumLibrary
 Open homepage
     [Documentation]    Opens the homepage and checks if the page is loaded
     Open Application    ${BASE_URL}
-    Wait For Homepage To Load
+    Wait For The Homepage To Load
     Close Browser
