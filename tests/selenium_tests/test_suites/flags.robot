@@ -32,3 +32,11 @@ Reset button
     select the reset button
     check if the flag for Ireland is visible
     Close Browser
+
+#Failing test
+#	Click button
+#    [Documentation]    This test case should fail
+#    Open Application    ${BASE_URL}/flags
+#    select the reset button
+#    Check If The red Button Is Selected
+#    Close Browser
