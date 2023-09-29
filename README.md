@@ -1,5 +1,6 @@
 # Geohelper
-![Logo](./images/geohelper_logo.png =250x250)
+ <img src="./images/geohelper_logo.png" width="100" height="100">
+ 
 ### Motivation
 As the name suggests Geohelper is a tool to be used when playing the "Geoguesser" game. I will keep expanding the application with more tools in the future.
 ### How to run
